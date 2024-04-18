@@ -1,0 +1,67 @@
+20-03-2024 11:53:57 ====================================
+20-03-2024 11:53:57 Fujian Da Qin : 2024-03-20 11:53:57 Process Started...
+3/20/2024 11:53:57 AM Default regional setting - English (India)
+3/20/2024 11:53:57 AM Current regional setting - English (United States)
+3/20/2024 11:53:57 AM Processing Started
+3/20/2024 11:53:58 AM Link loaded
+3/20/2024 11:53:59 AM logged in
+3/20/2024 11:53:59 AM Log In Successful
+3/20/2024 11:53:59 AM Processing RFQ
+3/20/2024 11:54:04 AM RFQNO not found in this file:C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\bin\Debug\MailText\大农海运有限公司_新海通35询价单_威尔森船舶服务有限公司.eml
+3/20/2024 11:54:09 AM RFQNO not found in this file:C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\bin\Debug\MailText\大商海运有限公司_新海通30询价单_威尔森船舶服务有限公司 (1).eml
+20-03-2024 12:06:49 ====================================
+20-03-2024 12:06:49 Fujian Da Qin : 2024-03-20 12:06:49 Process Started...
+3/20/2024 12:06:49 PM Default regional setting - English (India)
+3/20/2024 12:06:49 PM Current regional setting - English (United States)
+3/20/2024 12:06:49 PM Processing Started
+3/20/2024 12:06:51 PM Link loaded
+3/20/2024 12:06:51 PM logged in
+3/20/2024 12:06:51 PM Log In Successful
+3/20/2024 12:06:51 PM Processing RFQ
+3/20/2024 12:07:10 PM RFQNO :HT25MMA-23037-0000 From mail file not found on available RFQNO from website
+3/20/2024 12:07:11 PM RFQNO :HT30MMA-23027-0000 From mail file not found on available RFQNO from website
+3/20/2024 12:07:11 PM RFQNO :HT25MMA-24005 From mail file not found on available RFQNO from website
+20-03-2024 12:09:21 ====================================
+20-03-2024 12:09:21 Fujian Da Qin : 2024-03-20 12:09:21 Process Started...
+3/20/2024 12:09:21 PM Default regional setting - English (India)
+3/20/2024 12:09:21 PM Current regional setting - English (United States)
+3/20/2024 12:09:21 PM Processing Started
+3/20/2024 12:09:22 PM Link loaded
+3/20/2024 12:09:23 PM logged in
+3/20/2024 12:09:23 PM Log In Successful
+3/20/2024 12:09:23 PM Processing RFQ
+3/20/2024 12:09:23 PM RFQNO NOT FOUND IN EMAIL FILE 大农海运有限公司_新海通35询价单_威尔森船舶服务有限公司.eml
+3/20/2024 12:09:23 PM RFQNO not found in this file:C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\bin\Debug\MailText\大农海运有限公司_新海通35询价单_威尔森船舶服务有限公司.eml
+3/20/2024 12:09:23 PM RFQNO NOT FOUND IN EMAIL FILE 大商海运有限公司_新海通30询价单_威尔森船舶服务有限公司 (1).eml
+3/20/2024 12:09:23 PM RFQNO not found in this file:C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\bin\Debug\MailText\大商海运有限公司_新海通30询价单_威尔森船舶服务有限公司 (1).eml
+3/20/2024 12:09:23 PM RFQNO :HT25MMA-23037-0000 From mail file not found on available RFQNO from website
+3/20/2024 12:09:23 PM RFQNO :HT30MMA-23027-0000 From mail file not found on available RFQNO from website
+3/20/2024 12:09:23 PM RFQNO :HT25MMA-24005 From mail file not found on available RFQNO from website
+20-03-2024 12:10:44 ====================================
+20-03-2024 12:10:44 Fujian Da Qin : 2024-03-20 12:10:44 Process Started...
+3/20/2024 12:10:44 PM Default regional setting - English (India)
+3/20/2024 12:10:44 PM Current regional setting - English (United States)
+3/20/2024 12:10:44 PM Processing Started
+3/20/2024 12:10:45 PM Link loaded
+3/20/2024 12:10:46 PM logged in
+3/20/2024 12:10:46 PM Log In Successful
+3/20/2024 12:10:46 PM Processing RFQ
+3/20/2024 12:10:46 PM RFQNO not found in this file:C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\bin\Debug\MailText\大农海运有限公司_新海通35询价单_威尔森船舶服务有限公司.eml
+3/20/2024 12:10:46 PM RFQNO not found in this file:C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\bin\Debug\MailText\大商海运有限公司_新海通30询价单_威尔森船舶服务有限公司 (1).eml
+3/20/2024 12:10:46 PM RFQNO :HT25MMA-23037-0000 From mail file not found on available RFQNO from website
+3/20/2024 12:10:46 PM RFQNO :HT30MMA-23027-0000 From mail file not found on available RFQNO from website
+3/20/2024 12:10:46 PM RFQNO :HT25MMA-24005 From mail file not found on available RFQNO from website
+20-03-2024 14:38:29 ====================================
+20-03-2024 14:38:29 Fujian Da Qin : 2024-03-20 14:38:27 Process Started...
+3/20/2024 2:38:29 PM Default regional setting - English (India)
+3/20/2024 2:38:29 PM Current regional setting - English (United States)
+3/20/2024 2:38:29 PM Processing Started
+3/20/2024 2:38:30 PM Link loaded
+3/20/2024 2:38:31 PM logged in
+3/20/2024 2:38:31 PM Log In Successful
+3/20/2024 2:38:31 PM Processing RFQ
+3/20/2024 2:38:32 PM RFQNO not found in this file:C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\bin\Debug\MailText\大农海运有限公司_新海通35询价单_威尔森船舶服务有限公司.eml
+3/20/2024 2:38:32 PM RFQNO not found in this file:C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\bin\Debug\MailText\大商海运有限公司_新海通30询价单_威尔森船舶服务有限公司 (1).eml
+3/20/2024 2:38:32 PM RFQNO :HT25MMA-23037-0000 From mail file not found on available RFQNO from website
+3/20/2024 2:38:32 PM RFQNO :HT30MMA-23027-0000 From mail file not found on available RFQNO from website
+3/20/2024 2:38:32 PM RFQNO :HT25MMA-24005 From mail file not found on available RFQNO from website

@@ -1,0 +1,76 @@
+07-03-2024 10:25:04 ====================================
+07-03-2024 10:25:04 Fujian Da Qin : 2024-03-07 10:25:02 Process Started...
+3/7/2024 10:25:04 AM Default regional setting - English (India)
+3/7/2024 10:25:04 AM Current regional setting - English (United States)
+3/7/2024 10:25:04 AM Processing Started
+3/7/2024 10:25:05 AM Link loaded
+3/7/2024 10:25:06 AM logged in
+3/7/2024 10:25:10 AM Log In Successful
+3/7/2024 10:25:10 AM Processing RFQ
+3/7/2024 10:25:10 AM RFQ generation Started
+07-03-2024 12:24:04 ====================================
+07-03-2024 12:24:04 Fujian Da Qin : 2024-03-07 12:24:03 Process Started...
+3/7/2024 12:24:04 PM Default regional setting - English (India)
+3/7/2024 12:24:04 PM Current regional setting - English (United States)
+3/7/2024 12:24:04 PM Processing Started
+3/7/2024 12:24:06 PM Link loaded
+3/7/2024 12:24:06 PM logged in
+3/7/2024 12:24:11 PM Log In Successful
+3/7/2024 12:24:11 PM Processing RFQ
+3/7/2024 12:24:11 PM RFQ generation Started
+07-03-2024 14:38:32 ====================================
+07-03-2024 14:38:32 Fujian Da Qin : 2024-03-07 14:38:31 Process Started...
+3/7/2024 2:38:32 PM Default regional setting - English (India)
+3/7/2024 2:38:32 PM Current regional setting - English (United States)
+3/7/2024 2:38:32 PM Processing Started
+3/7/2024 2:38:33 PM Link loaded
+3/7/2024 2:38:34 PM logged in
+3/7/2024 2:38:34 PM Log In Successful
+3/7/2024 2:38:34 PM Processing RFQ
+3/7/2024 2:38:34 PM RFQ generation Started
+07-03-2024 15:07:25 ====================================
+07-03-2024 15:07:25 Fujian Da Qin : 2024-03-07 15:07:25 Process Started...
+3/7/2024 3:07:25 PM Default regional setting - English (India)
+3/7/2024 3:07:25 PM Current regional setting - English (United States)
+3/7/2024 3:07:25 PM Processing Started
+3/7/2024 3:07:27 PM Link loaded
+3/7/2024 3:07:27 PM logged in
+3/7/2024 3:07:27 PM Log In Successful
+3/7/2024 3:07:27 PM Processing RFQ
+3/7/2024 3:07:27 PM RFQ generation Started
+3/7/2024 3:08:13 PM Error occurred while ProcessRFQ() The best overloaded method match for 'FujianDaQin_Routine.FujianDaQin.GetDATA(string, int)' has some invalid arguments
+3/7/2024 3:08:58 PM Could not find file 'C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\bin\Debug\''.
+3/7/2024 3:08:58 PM UError occurred while reading AppSettings xml -Could not find file 'C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\bin\Debug\''.
+3/7/2024 3:08:58 PM Fujian Da Qin : 2024-03-07 15:07:25 Process Completed...
+3/7/2024 3:08:58 PM ====================================
+07-03-2024 15:09:01 ====================================
+07-03-2024 15:09:01 Fujian Da Qin : 2024-03-07 15:09:01 Process Started...
+3/7/2024 3:09:01 PM Default regional setting - English (India)
+3/7/2024 3:09:01 PM Current regional setting - English (United States)
+3/7/2024 3:09:01 PM Processing Started
+3/7/2024 3:09:02 PM Link loaded
+3/7/2024 3:09:03 PM logged in
+3/7/2024 3:09:03 PM Log In Successful
+3/7/2024 3:09:03 PM Processing RFQ
+3/7/2024 3:09:03 PM RFQ generation Started
+07-03-2024 15:10:11 ====================================
+07-03-2024 15:10:11 Fujian Da Qin : 2024-03-07 15:10:11 Process Started...
+3/7/2024 3:10:11 PM Default regional setting - English (India)
+3/7/2024 3:10:11 PM Current regional setting - English (United States)
+3/7/2024 3:10:11 PM Processing Started
+3/7/2024 3:10:13 PM Link loaded
+3/7/2024 3:10:13 PM logged in
+3/7/2024 3:10:13 PM Log In Successful
+3/7/2024 3:10:13 PM Processing RFQ
+3/7/2024 3:10:13 PM RFQ generation Started
+07-03-2024 15:11:35 ====================================
+07-03-2024 15:11:35 Fujian Da Qin : 2024-03-07 15:11:35 Process Started...
+3/7/2024 3:11:36 PM Default regional setting - English (India)
+3/7/2024 3:11:36 PM Current regional setting - English (United States)
+3/7/2024 3:11:36 PM Processing Started
+3/7/2024 3:11:37 PM Link loaded
+3/7/2024 3:11:37 PM logged in
+3/7/2024 3:11:37 PM Log In Successful
+3/7/2024 3:11:37 PM Processing RFQ
+3/7/2024 3:11:37 PM RFQ generation Started
+3/7/2024 3:11:57 PM Unable to get RFQ Data

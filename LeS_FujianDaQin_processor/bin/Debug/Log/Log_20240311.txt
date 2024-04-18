@@ -1,0 +1,193 @@
+11-03-2024 10:00:54 ====================================
+11-03-2024 10:00:54 Fujian Da Qin : 2024-03-11 10:00:52 Process Started...
+3/11/2024 10:00:54 AM Default regional setting - English (India)
+3/11/2024 10:00:54 AM Current regional setting - English (United States)
+3/11/2024 10:00:54 AM Processing Started
+3/11/2024 10:00:55 AM Link loaded
+3/11/2024 10:00:56 AM logged in
+3/11/2024 10:00:56 AM Log In Successful
+3/11/2024 10:00:56 AM Processing RFQ
+3/11/2024 10:00:56 AM RFQ generation Started
+11-03-2024 10:01:40 ====================================
+11-03-2024 10:01:40 Fujian Da Qin : 2024-03-11 10:01:40 Process Started...
+3/11/2024 10:01:41 AM Default regional setting - English (India)
+3/11/2024 10:01:41 AM Current regional setting - English (United States)
+3/11/2024 10:01:41 AM Processing Started
+3/11/2024 10:01:42 AM Link loaded
+3/11/2024 10:01:42 AM logged in
+3/11/2024 10:01:42 AM Log In Successful
+3/11/2024 10:01:42 AM Processing RFQ
+3/11/2024 10:01:42 AM RFQ generation Started
+11-03-2024 10:11:01 ====================================
+11-03-2024 10:11:01 Fujian Da Qin : 2024-03-11 10:11:01 Process Started...
+3/11/2024 10:11:01 AM Default regional setting - English (India)
+3/11/2024 10:11:01 AM Current regional setting - English (United States)
+3/11/2024 10:11:01 AM Processing Started
+3/11/2024 10:11:02 AM Link loaded
+3/11/2024 10:11:02 AM logged in
+3/11/2024 10:11:02 AM Log In Successful
+3/11/2024 10:11:02 AM Processing RFQ
+3/11/2024 10:11:02 AM RFQ generation Started
+11-03-2024 10:12:51 ====================================
+11-03-2024 10:12:51 Fujian Da Qin : 2024-03-11 10:12:51 Process Started...
+3/11/2024 10:12:51 AM Default regional setting - English (India)
+3/11/2024 10:12:51 AM Current regional setting - English (United States)
+3/11/2024 10:12:51 AM Processing Started
+3/11/2024 10:12:53 AM Link loaded
+3/11/2024 10:12:53 AM logged in
+3/11/2024 10:12:53 AM Log In Successful
+3/11/2024 10:12:53 AM Processing RFQ
+3/11/2024 10:12:53 AM RFQ generation Started
+11-03-2024 10:21:49 ====================================
+11-03-2024 10:21:49 Fujian Da Qin : 2024-03-11 10:21:49 Process Started...
+3/11/2024 10:21:49 AM Default regional setting - English (India)
+3/11/2024 10:21:49 AM Current regional setting - English (United States)
+3/11/2024 10:21:49 AM Processing Started
+3/11/2024 10:21:50 AM Link loaded
+3/11/2024 10:21:51 AM logged in
+3/11/2024 10:21:51 AM Log In Successful
+3/11/2024 10:21:51 AM Processing RFQ
+3/11/2024 10:21:51 AM RFQ generation Started
+3/11/2024 10:22:38 AM --------*Process for RFQ is Done*--------*--------
+3/11/2024 10:22:38 AM Fujian Da Qin : 2024-03-11 10:21:49 Process Completed...
+3/11/2024 10:22:38 AM ====================================
+11-03-2024 10:25:37 ====================================
+11-03-2024 10:25:37 Fujian Da Qin : 2024-03-11 10:25:37 Process Started...
+3/11/2024 10:25:38 AM Default regional setting - English (India)
+3/11/2024 10:25:38 AM Current regional setting - English (United States)
+3/11/2024 10:25:38 AM Processing Started
+3/11/2024 10:25:39 AM Link loaded
+3/11/2024 10:25:39 AM logged in
+3/11/2024 10:25:39 AM Log In Successful
+3/11/2024 10:25:39 AM Processing RFQ
+3/11/2024 10:25:39 AM RFQ generation Started
+11-03-2024 12:22:07 ====================================
+11-03-2024 12:22:07 Fujian Da Qin : 2024-03-11 12:22:06 Process Started...
+3/11/2024 12:22:07 PM Default regional setting - English (India)
+3/11/2024 12:22:07 PM Current regional setting - English (United States)
+3/11/2024 12:22:07 PM Processing Started
+3/11/2024 12:22:09 PM Link loaded
+3/11/2024 12:22:09 PM logged in
+3/11/2024 12:22:09 PM Log In Successful
+3/11/2024 12:22:09 PM Processing RFQ
+3/11/2024 12:22:09 PM RFQ generation Started
+3/11/2024 12:22:38 PM Start filling HeaderData in MTML
+11-03-2024 12:24:03 ====================================
+11-03-2024 12:24:03 Fujian Da Qin : 2024-03-11 12:24:03 Process Started...
+3/11/2024 12:24:04 PM Default regional setting - English (India)
+3/11/2024 12:24:04 PM Current regional setting - English (United States)
+3/11/2024 12:24:04 PM Processing Started
+3/11/2024 12:24:04 PM Link loaded
+3/11/2024 12:24:05 PM logged in
+3/11/2024 12:24:05 PM Log In Successful
+3/11/2024 12:24:05 PM Processing RFQ
+3/11/2024 12:24:05 PM RFQ generation Started
+3/11/2024 12:24:17 PM Start filling HeaderData in MTML
+3/11/2024 12:26:36 PM Start filling PartyAddress in MTML
+11-03-2024 12:44:51 ====================================
+11-03-2024 12:44:51 Fujian Da Qin : 2024-03-11 12:44:51 Process Started...
+3/11/2024 12:44:52 PM Default regional setting - English (India)
+3/11/2024 12:44:52 PM Current regional setting - English (United States)
+3/11/2024 12:44:52 PM Processing Started
+3/11/2024 12:44:52 PM Link loaded
+3/11/2024 12:44:53 PM logged in
+3/11/2024 12:44:53 PM Log In Successful
+3/11/2024 12:44:53 PM Processing RFQ
+3/11/2024 12:44:53 PM RFQ generation Started
+3/11/2024 12:45:12 PM Start filling HeaderData in MTML
+3/11/2024 12:45:29 PM Start filling PartyAddress in MTML
+3/11/2024 12:45:57 PM Start filling LineItems in MTML
+11-03-2024 12:47:59 ====================================
+11-03-2024 12:47:59 Fujian Da Qin : 2024-03-11 12:47:59 Process Started...
+3/11/2024 12:48:00 PM Default regional setting - English (India)
+3/11/2024 12:48:00 PM Current regional setting - English (United States)
+3/11/2024 12:48:00 PM Processing Started
+3/11/2024 12:48:01 PM Link loaded
+3/11/2024 12:48:01 PM logged in
+3/11/2024 12:48:01 PM Log In Successful
+3/11/2024 12:48:01 PM Processing RFQ
+3/11/2024 12:48:01 PM RFQ generation Started
+3/11/2024 12:48:06 PM Start filling HeaderData in MTML
+3/11/2024 12:48:06 PM Start filling PartyAddress in MTML
+3/11/2024 12:48:13 PM Start filling LineItems in MTML
+3/11/2024 12:49:21 PM RFQ Mtml Generated for HT39MMA-24025-0000
+3/11/2024 12:49:40 PM --------*Process for RFQ is Done*--------*--------
+3/11/2024 12:49:49 PM Fujian Da Qin : 2024-03-11 12:47:59 Process Completed...
+3/11/2024 12:49:50 PM ====================================
+11-03-2024 12:49:58 ====================================
+11-03-2024 12:49:58 Fujian Da Qin : 2024-03-11 12:49:52 Process Started...
+3/11/2024 12:49:58 PM Default regional setting - English (India)
+3/11/2024 12:49:58 PM Current regional setting - English (United States)
+3/11/2024 12:49:58 PM Processing Started
+3/11/2024 12:49:59 PM Link loaded
+3/11/2024 12:50:00 PM logged in
+3/11/2024 12:50:00 PM Log In Successful
+3/11/2024 12:50:00 PM Processing RFQ
+3/11/2024 12:50:00 PM RFQ generation Started
+11-03-2024 17:45:27 ====================================
+11-03-2024 17:45:27 Fujian Da Qin : 2024-03-11 17:45:26 Process Started...
+3/11/2024 5:45:27 PM Default regional setting - English (India)
+3/11/2024 5:45:27 PM Current regional setting - English (United States)
+3/11/2024 5:45:27 PM Processing Started
+3/11/2024 5:45:28 PM Link loaded
+3/11/2024 5:45:28 PM logged in
+3/11/2024 5:45:28 PM Log In Successful
+3/11/2024 5:45:28 PM Processing RFQ
+3/11/2024 5:45:29 PM RFQ generation Started
+3/11/2024 5:45:34 PM --------*Process for RFQ is Done*--------*--------
+3/11/2024 5:45:34 PM Fujian Da Qin : 2024-03-11 17:45:26 Process Completed...
+3/11/2024 5:45:34 PM ====================================
+11-03-2024 17:45:42 ====================================
+11-03-2024 17:45:42 Fujian Da Qin : 2024-03-11 17:45:41 Process Started...
+3/11/2024 5:45:42 PM Default regional setting - English (India)
+3/11/2024 5:45:42 PM Current regional setting - English (United States)
+3/11/2024 5:45:42 PM Processing Started
+3/11/2024 5:45:43 PM Link loaded
+3/11/2024 5:45:43 PM logged in
+3/11/2024 5:45:43 PM Log In Successful
+3/11/2024 5:45:43 PM Processing RFQ
+3/11/2024 5:45:43 PM RFQ generation Started
+3/11/2024 5:45:50 PM --------*Process for RFQ is Done*--------*--------
+3/11/2024 5:45:50 PM Fujian Da Qin : 2024-03-11 17:45:41 Process Completed...
+3/11/2024 5:45:50 PM ====================================
+11-03-2024 17:46:16 ====================================
+11-03-2024 17:46:16 Fujian Da Qin : 2024-03-11 17:46:16 Process Started...
+3/11/2024 5:46:16 PM Default regional setting - English (India)
+3/11/2024 5:46:16 PM Current regional setting - English (United States)
+3/11/2024 5:46:16 PM Processing Started
+3/11/2024 5:46:17 PM Link loaded
+3/11/2024 5:46:18 PM logged in
+3/11/2024 5:46:18 PM Log In Successful
+3/11/2024 5:46:18 PM Processing RFQ
+3/11/2024 5:46:18 PM RFQ generation Started
+11-03-2024 17:47:07 ====================================
+11-03-2024 17:47:07 Fujian Da Qin : 2024-03-11 17:47:07 Process Started...
+3/11/2024 5:47:07 PM Default regional setting - English (India)
+3/11/2024 5:47:07 PM Current regional setting - English (United States)
+3/11/2024 5:47:07 PM Processing Started
+3/11/2024 5:47:08 PM Link loaded
+3/11/2024 5:47:09 PM logged in
+3/11/2024 5:47:09 PM Log In Successful
+3/11/2024 5:47:09 PM Processing RFQ
+3/11/2024 5:47:09 PM RFQ generation Started
+11-03-2024 17:48:57 ====================================
+11-03-2024 17:48:57 Fujian Da Qin : 2024-03-11 17:48:57 Process Started...
+3/11/2024 5:48:58 PM Default regional setting - English (India)
+3/11/2024 5:48:58 PM Current regional setting - English (United States)
+3/11/2024 5:48:58 PM Processing Started
+3/11/2024 5:48:59 PM Link loaded
+3/11/2024 5:48:59 PM logged in
+3/11/2024 5:48:59 PM Log In Successful
+3/11/2024 5:48:59 PM Processing RFQ
+3/11/2024 5:48:59 PM RFQ generation Started
+3/11/2024 5:49:28 PM Start filling HeaderData in MTML
+3/11/2024 5:49:29 PM Start filling PartyAddress in MTML
+3/11/2024 5:49:41 PM Start filling LineItems in MTML
+3/11/2024 5:49:42 PM RFQ Mtml Generated for HT23MMA-24026-0000
+3/11/2024 5:49:44 PM Start filling HeaderData in MTML
+3/11/2024 5:49:44 PM Start filling PartyAddress in MTML
+3/11/2024 5:49:55 PM Start filling LineItems in MTML
+3/11/2024 5:49:56 PM RFQ Mtml Generated for HT39MMA-24025-0000
+3/11/2024 5:49:57 PM --------*Process for RFQ is Done*--------*--------
+3/11/2024 5:49:57 PM Fujian Da Qin : 2024-03-11 17:48:57 Process Completed...
+3/11/2024 5:49:57 PM ====================================

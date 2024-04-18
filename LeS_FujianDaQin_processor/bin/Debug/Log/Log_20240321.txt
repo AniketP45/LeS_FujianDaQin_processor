@@ -1,0 +1,90 @@
+21-03-2024 16:20:11 ====================================
+21-03-2024 16:20:11 Fujian Da Qin : 2024-03-21 16:20:11 Process Started...
+3/21/2024 4:20:11 PM Default regional setting - English (India)
+3/21/2024 4:20:11 PM Current regional setting - English (United States)
+3/21/2024 4:20:11 PM Processing Started
+3/21/2024 4:20:12 PM Link loaded
+3/21/2024 4:20:13 PM logged in
+3/21/2024 4:20:13 PM Log In Successful
+3/21/2024 4:20:13 PM Processing RFQ
+3/21/2024 4:20:13 PM No files found.
+3/21/2024 4:20:13 PM --------*Process for RFQ is Done*--------*--------
+3/21/2024 4:20:13 PM Fujian Da Qin : 2024-03-21 16:20:11 Process Completed...
+3/21/2024 4:20:13 PM ====================================
+21-03-2024 16:20:41 ====================================
+21-03-2024 16:20:41 Fujian Da Qin : 2024-03-21 16:20:41 Process Started...
+3/21/2024 4:20:41 PM Default regional setting - English (India)
+3/21/2024 4:20:41 PM Current regional setting - English (United States)
+3/21/2024 4:20:41 PM Processing Started
+3/21/2024 4:20:42 PM Link loaded
+3/21/2024 4:20:43 PM logged in
+3/21/2024 4:20:43 PM Log In Successful
+3/21/2024 4:20:43 PM Processing RFQ
+3/21/2024 4:20:53 PM RFQNO :HT30MMA-23027 From mail file not available
+3/21/2024 4:21:21 PM RFQNO :HT0M/euavLvqO6Cs7Sy76088WpuqPUy9PQz965q8u+tKyysCLQwrqjzagz From mail file not available
+3/21/2024 4:21:29 PM RFQNO :HT0M/euavLvqO6Cs7Sy76088nMuqPUy9PQz965q8u+tKyysCLQwrqjzagz From mail file not available
+3/21/2024 4:21:52 PM RFQNO :HT25MMA-23037-0000).xls?=" From mail file not available
+3/21/2024 4:21:58 PM RFQNO :HT30MMA-23027-0000).xls?=" From mail file not available
+3/21/2024 4:22:06 PM RFQNO :HT25MMA-24005 From mail file not available
+3/21/2024 4:22:08 PM --------*Process for RFQ is Done*--------*--------
+3/21/2024 4:22:08 PM Fujian Da Qin : 2024-03-21 16:20:41 Process Completed...
+3/21/2024 4:22:08 PM ====================================
+21-03-2024 16:25:36 ====================================
+21-03-2024 16:25:36 Fujian Da Qin : 2024-03-21 16:25:36 Process Started...
+3/21/2024 4:25:36 PM Default regional setting - English (India)
+3/21/2024 4:25:36 PM Current regional setting - English (United States)
+3/21/2024 4:25:36 PM Processing Started
+3/21/2024 4:25:37 PM Link loaded
+3/21/2024 4:25:38 PM logged in
+3/21/2024 4:25:38 PM Log In Successful
+3/21/2024 4:25:38 PM Processing RFQ
+3/21/2024 4:25:38 PM Not getting RFQNO from file...
+3/21/2024 4:25:38 PM Error while Extrating RFQ number from Mail file :Not getting RFQNO from file :parsing "HT.*?(?=\s|)|<|$)" - Too many )'s.
+3/21/2024 4:25:38 PM --------*Process for RFQ is Done*--------*--------
+3/21/2024 4:25:38 PM Fujian Da Qin : 2024-03-21 16:25:36 Process Completed...
+3/21/2024 4:25:38 PM ====================================
+21-03-2024 16:27:13 ====================================
+21-03-2024 16:27:13 Fujian Da Qin : 2024-03-21 16:27:12 Process Started...
+3/21/2024 4:27:13 PM Default regional setting - English (India)
+3/21/2024 4:27:13 PM Current regional setting - English (United States)
+3/21/2024 4:27:13 PM Processing Started
+3/21/2024 4:27:13 PM Link loaded
+3/21/2024 4:27:14 PM logged in
+3/21/2024 4:27:14 PM Log In Successful
+3/21/2024 4:27:14 PM Processing RFQ
+3/21/2024 4:27:21 PM RFQNO :HT30MMA-23027 From mail file not available
+3/21/2024 4:27:29 PM RFQNO :HT0M/euavLvqO6Cs7Sy76088WpuqPUy9PQz965q8u+tKyysCLQwrqjzagz From mail file not available
+3/21/2024 4:27:35 PM RFQNO :HT0M/euavLvqO6Cs7Sy76088nMuqPUy9PQz965q8u+tKyysCLQwrqjzagz From mail file not available
+21-03-2024 16:31:23 ====================================
+21-03-2024 16:31:23 Fujian Da Qin : 2024-03-21 16:31:23 Process Started...
+3/21/2024 4:31:23 PM Default regional setting - English (India)
+3/21/2024 4:31:23 PM Current regional setting - English (United States)
+3/21/2024 4:31:23 PM Processing Started
+3/21/2024 4:31:24 PM Link loaded
+3/21/2024 4:31:24 PM logged in
+3/21/2024 4:31:24 PM Log In Successful
+3/21/2024 4:31:24 PM Processing RFQ
+3/21/2024 4:31:32 PM RFQNO :HT25MMA-23037-0000).xls?=" From mail file not available
+3/21/2024 4:31:36 PM RFQNO :HT30MMA-23027-0000).xls?=" From mail file not available
+3/21/2024 4:31:38 PM RFQNO :HT25MMA-24005 From mail file not available
+3/21/2024 4:31:40 PM --------*Process for RFQ is Done*--------*--------
+3/21/2024 4:31:40 PM Fujian Da Qin : 2024-03-21 16:31:23 Process Completed...
+3/21/2024 4:31:40 PM ====================================
+21-03-2024 16:37:37 ====================================
+21-03-2024 16:37:37 Fujian Da Qin : 2024-03-21 16:37:36 Process Started...
+3/21/2024 4:37:37 PM Default regional setting - English (India)
+3/21/2024 4:37:37 PM Current regional setting - English (United States)
+3/21/2024 4:37:37 PM Processing Started
+3/21/2024 4:37:37 PM Link loaded
+3/21/2024 4:37:38 PM logged in
+3/21/2024 4:37:38 PM Log In Successful
+3/21/2024 4:37:38 PM Processing RFQ
+3/21/2024 4:37:49 PM RFQNO not found in this file:C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\bin\Debug\MailText\4001051_240320_125820502.txt
+3/21/2024 4:38:03 PM RFQNO not found in this file:C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\bin\Debug\MailText\大农海运有限公司_新海通35询价单_威尔森船舶服务有限公司.eml
+3/21/2024 4:38:18 PM RFQNO not found in this file:C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\bin\Debug\MailText\大商海运有限公司_新海通30询价单_威尔森船舶服务有限公司 (1).eml
+3/21/2024 4:38:51 PM RFQNO :HT25MMA-23037-0000 From mail file not available
+3/21/2024 4:38:58 PM RFQNO :HT30MMA-23027-0000 From mail file not available
+3/21/2024 4:39:07 PM RFQNO not found in this file:C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\bin\Debug\MailText\福建海通发展股份有限公司_新海通25询价单_威尔森船舶服务有限公司.eml
+3/21/2024 4:39:07 PM --------*Process for RFQ is Done*--------*--------
+3/21/2024 4:39:07 PM Fujian Da Qin : 2024-03-21 16:37:36 Process Completed...
+3/21/2024 4:39:07 PM ====================================

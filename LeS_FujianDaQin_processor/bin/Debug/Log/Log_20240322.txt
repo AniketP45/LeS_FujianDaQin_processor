@@ -1,0 +1,79 @@
+22-03-2024 18:11:58 ====================================
+22-03-2024 18:11:58 Fujian Da Qin : 2024-03-22 18:11:58 Process Started...
+3/22/2024 6:11:58 PM Default regional setting - English (India)
+3/22/2024 6:11:58 PM Current regional setting - English (United States)
+3/22/2024 6:11:58 PM Processing Started
+3/22/2024 6:11:59 PM Link loaded
+3/22/2024 6:12:00 PM logged in
+3/22/2024 6:12:00 PM Log In Successful
+3/22/2024 6:12:00 PM Processing RFQ
+3/22/2024 6:12:01 PM 1 :  Started RFQ generation for HT38HMA-24022-0600
+3/22/2024 6:12:01 PM Start filling HeaderData in MTML
+3/22/2024 6:12:01 PM Start filling PartyAddress in MTML
+3/22/2024 6:12:01 PM Unable to get RFQ Data
+3/22/2024 6:12:01 PM Error while Generating MTML Error reading JObject from JsonReader. Path '', line 0, position 0.
+3/22/2024 6:12:01 PM Error occurred while ProcessRFQ() Error reading JObject from JsonReader. Path '', line 0, position 0.
+3/22/2024 6:12:01 PM Could not find file 'C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\bin\Debug\''.
+3/22/2024 6:12:01 PM Error occurred while reading AppSettings xml -Could not find file 'C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\bin\Debug\''.
+3/22/2024 6:12:01 PM Fujian Da Qin : 2024-03-22 18:11:58 Process Completed...
+3/22/2024 6:12:01 PM ====================================
+22-03-2024 18:12:46 ====================================
+22-03-2024 18:12:46 Fujian Da Qin : 2024-03-22 18:12:46 Process Started...
+3/22/2024 6:12:46 PM Default regional setting - English (India)
+3/22/2024 6:12:46 PM Current regional setting - English (United States)
+3/22/2024 6:12:46 PM Processing Started
+3/22/2024 6:12:49 PM Link loaded
+3/22/2024 6:12:50 PM logged in
+3/22/2024 6:12:50 PM Log In Successful
+3/22/2024 6:12:50 PM Processing RFQ
+3/22/2024 6:13:11 PM 1 :  Started RFQ generation for HT38HMA-24022-0600
+3/22/2024 6:13:13 PM Start filling HeaderData in MTML
+3/22/2024 6:13:32 PM Start filling PartyAddress in MTML
+3/22/2024 6:13:39 PM Unable to get RFQ Data
+3/22/2024 6:16:39 PM Error while Generating MTML Error reading JObject from JsonReader. Path '', line 0, position 0.
+3/22/2024 6:16:39 PM Error occurred while ProcessRFQ() Error reading JObject from JsonReader. Path '', line 0, position 0.
+3/22/2024 6:16:39 PM Could not find file 'C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\bin\Debug\''.
+3/22/2024 6:16:39 PM Error occurred while reading AppSettings xml -Could not find file 'C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\bin\Debug\''.
+3/22/2024 6:16:39 PM Fujian Da Qin : 2024-03-22 18:12:46 Process Completed...
+3/22/2024 6:16:39 PM ====================================
+22-03-2024 18:17:56 ====================================
+22-03-2024 18:17:56 Fujian Da Qin : 2024-03-22 18:17:55 Process Started...
+3/22/2024 6:17:56 PM Default regional setting - English (India)
+3/22/2024 6:17:56 PM Current regional setting - English (United States)
+3/22/2024 6:17:56 PM Processing Started
+3/22/2024 6:17:56 PM Link loaded
+3/22/2024 6:17:57 PM logged in
+3/22/2024 6:17:57 PM Log In Successful
+3/22/2024 6:17:57 PM Processing RFQ
+3/22/2024 6:18:01 PM 1 :  Started RFQ generation for HT38HMA-24022-0600
+3/22/2024 6:18:01 PM Start filling HeaderData in MTML
+3/22/2024 6:18:01 PM Start filling PartyAddress in MTML
+3/22/2024 6:18:08 PM Status Has Changed
+3/22/2024 6:18:19 PM Error while Generating MTML Error reading JObject from JsonReader. Path '', line 0, position 0.
+3/22/2024 6:18:23 PM Error occurred while ProcessRFQ() Error reading JObject from JsonReader. Path '', line 0, position 0.
+3/22/2024 6:18:27 PM Could not find file 'C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\bin\Debug\''.
+3/22/2024 6:18:29 PM Error occurred while reading AppSettings xml -Could not find file 'C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\bin\Debug\''.
+3/22/2024 6:18:33 PM Fujian Da Qin : 2024-03-22 18:17:55 Process Completed...
+3/22/2024 6:18:33 PM ====================================
+22-03-2024 18:22:48 ====================================
+22-03-2024 18:22:48 Fujian Da Qin : 2024-03-22 18:22:48 Process Started...
+3/22/2024 6:22:48 PM Default regional setting - English (India)
+3/22/2024 6:22:48 PM Current regional setting - English (United States)
+3/22/2024 6:22:48 PM Processing Started
+3/22/2024 6:22:49 PM Link loaded
+3/22/2024 6:22:50 PM logged in
+3/22/2024 6:22:50 PM Log In Successful
+3/22/2024 6:22:50 PM Processing RFQ
+3/22/2024 6:22:53 PM 1 :  Started RFQ generation for HT38HMA-24022-0600
+3/22/2024 6:22:53 PM Start filling HeaderData in MTML
+3/22/2024 6:22:53 PM Start filling PartyAddress in MTML
+3/22/2024 6:23:44 PM Start filling LineItems in MTML
+3/22/2024 6:23:48 PM RFQ Mtml Generated for HT38HMA-24022-0600
+3/22/2024 6:23:55 PM 2 :  Started RFQ generation for HT23MMA-24026-0000
+3/22/2024 6:23:55 PM Start filling HeaderData in MTML
+3/22/2024 6:23:55 PM Start filling PartyAddress in MTML
+3/22/2024 6:24:00 PM Start filling LineItems in MTML
+3/22/2024 6:24:02 PM RFQ Mtml Generated for HT23MMA-24026-0000
+3/22/2024 6:24:02 PM --------*Process for RFQ is Done*--------*--------
+3/22/2024 6:24:02 PM Fujian Da Qin : 2024-03-22 18:22:48 Process Completed...
+3/22/2024 6:24:02 PM ====================================

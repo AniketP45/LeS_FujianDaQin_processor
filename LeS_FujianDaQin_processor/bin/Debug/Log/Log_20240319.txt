@@ -1,0 +1,18 @@
+19-03-2024 16:23:13 ====================================
+19-03-2024 16:23:13 Fujian Da Qin : 2024-03-19 16:23:13 Process Started...
+3/19/2024 4:23:13 PM Default regional setting - English (India)
+3/19/2024 4:23:13 PM Current regional setting - English (United States)
+3/19/2024 4:23:13 PM Processing Started
+3/19/2024 4:23:14 PM Link loaded
+3/19/2024 4:23:15 PM logged in
+3/19/2024 4:23:15 PM Log In Successful
+3/19/2024 4:23:15 PM Processing RFQ
+19-03-2024 17:31:16 ====================================
+19-03-2024 17:31:16 Fujian Da Qin : 2024-03-19 17:31:16 Process Started...
+3/19/2024 5:31:16 PM Default regional setting - English (India)
+3/19/2024 5:31:16 PM Current regional setting - English (United States)
+3/19/2024 5:31:16 PM Processing Started
+3/19/2024 5:31:18 PM Link loaded
+3/19/2024 5:31:18 PM logged in
+3/19/2024 5:31:18 PM Log In Successful
+3/19/2024 5:31:18 PM Processing RFQ

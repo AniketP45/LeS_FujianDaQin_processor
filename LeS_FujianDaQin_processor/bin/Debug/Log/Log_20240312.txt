@@ -1,0 +1,66 @@
+12-03-2024 15:21:42 ====================================
+12-03-2024 15:21:42 Fujian Da Qin : 2024-03-12 15:21:42 Process Started...
+3/12/2024 3:21:42 PM Default regional setting - English (India)
+3/12/2024 3:21:42 PM Current regional setting - English (United States)
+3/12/2024 3:21:42 PM Processing Started
+3/12/2024 3:21:44 PM Link loaded
+3/12/2024 3:21:44 PM logged in
+3/12/2024 3:21:44 PM Log In Successful
+3/12/2024 3:21:44 PM Processing RFQ
+3/12/2024 3:21:45 PM RFQ generation Started
+3/12/2024 3:21:51 PM 1 : HT10HMA-24011-0000
+3/12/2024 3:21:54 PM Start filling HeaderData in MTML
+3/12/2024 3:21:55 PM Start filling PartyAddress in MTML
+3/12/2024 3:22:03 PM Start filling LineItems in MTML
+3/12/2024 3:22:04 PM RFQ Mtml Generated for HT10HMA-24011-0000
+3/12/2024 3:22:04 PM 2 : HT23MMA-24026-0000
+3/12/2024 3:22:08 PM Start filling HeaderData in MTML
+3/12/2024 3:22:08 PM Start filling PartyAddress in MTML
+3/12/2024 3:22:14 PM Start filling LineItems in MTML
+3/12/2024 3:22:15 PM RFQ Mtml Generated for HT23MMA-24026-0000
+3/12/2024 3:22:15 PM 3 : HT39MMA-24025-0000
+3/12/2024 3:22:17 PM Start filling HeaderData in MTML
+3/12/2024 3:22:17 PM Start filling PartyAddress in MTML
+3/12/2024 3:22:22 PM Start filling LineItems in MTML
+3/12/2024 3:22:24 PM RFQ Mtml Generated for HT39MMA-24025-0000
+3/12/2024 3:22:24 PM --------*Process for RFQ is Done*--------*--------
+3/12/2024 3:22:24 PM Fujian Da Qin : 2024-03-12 15:21:42 Process Completed...
+3/12/2024 3:22:24 PM ====================================
+12-03-2024 15:22:55 ====================================
+12-03-2024 15:22:55 Fujian Da Qin : 2024-03-12 15:22:55 Process Started...
+3/12/2024 3:22:55 PM Default regional setting - English (India)
+3/12/2024 3:22:55 PM Current regional setting - English (United States)
+3/12/2024 3:22:55 PM Processing Started
+3/12/2024 3:22:57 PM Link loaded
+3/12/2024 3:22:58 PM logged in
+3/12/2024 3:22:58 PM Log In Successful
+3/12/2024 3:22:58 PM Processing RFQ
+3/12/2024 3:22:58 PM RFQ generation Started
+12-03-2024 15:25:03 ====================================
+12-03-2024 15:25:03 Fujian Da Qin : 2024-03-12 15:25:03 Process Started...
+3/12/2024 3:25:03 PM Default regional setting - English (India)
+3/12/2024 3:25:03 PM Current regional setting - English (United States)
+3/12/2024 3:25:03 PM Processing Started
+3/12/2024 3:25:03 PM Link loaded
+3/12/2024 3:25:04 PM logged in
+3/12/2024 3:25:04 PM Log In Successful
+3/12/2024 3:25:04 PM Processing RFQ
+3/12/2024 3:25:04 PM RFQ generation Started
+3/12/2024 3:25:31 PM 1 : HT10HMA-24011-0000
+3/12/2024 3:25:39 PM Start filling HeaderData in MTML
+3/12/2024 3:25:39 PM Start filling PartyAddress in MTML
+3/12/2024 3:25:56 PM Start filling LineItems in MTML
+3/12/2024 3:25:57 PM RFQ Mtml Generated for HT10HMA-24011-0000
+3/12/2024 3:25:57 PM 2 : HT23MMA-24026-0000
+3/12/2024 3:25:58 PM Start filling HeaderData in MTML
+3/12/2024 3:25:58 PM Start filling PartyAddress in MTML
+3/12/2024 3:26:02 PM Start filling LineItems in MTML
+3/12/2024 3:26:03 PM RFQ Mtml Generated for HT23MMA-24026-0000
+3/12/2024 3:26:03 PM 3 : HT39MMA-24025-0000
+3/12/2024 3:26:05 PM Start filling HeaderData in MTML
+3/12/2024 3:26:05 PM Start filling PartyAddress in MTML
+3/12/2024 3:26:08 PM Start filling LineItems in MTML
+3/12/2024 3:26:11 PM RFQ Mtml Generated for HT39MMA-24025-0000
+3/12/2024 3:26:11 PM --------*Process for RFQ is Done*--------*--------
+3/12/2024 3:26:11 PM Fujian Da Qin : 2024-03-12 15:25:03 Process Completed...
+3/12/2024 3:26:11 PM ====================================

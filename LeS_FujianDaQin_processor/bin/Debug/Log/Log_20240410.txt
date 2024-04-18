@@ -1,0 +1,13 @@
+10-04-2024 15:48:36 ====================================
+10-04-2024 15:48:36 Fujian Da Qin : 2024-04-10 15:48:34 Process Started...
+4/10/2024 3:48:36 PM Default regional setting - English (India)
+4/10/2024 3:48:36 PM Current regional setting - English (United States)
+4/10/2024 3:48:36 PM Processing Started
+4/10/2024 3:48:37 PM Link loaded
+4/10/2024 3:48:38 PM logged in
+4/10/2024 3:48:38 PM Log In Successful
+4/10/2024 3:48:38 PM Processing RFQ
+4/10/2024 3:49:57 PM RFQNO :HT27HMA-24027-0100 From mail file not available
+4/10/2024 3:49:57 PM --------*Process for RFQ is Done*--------*--------
+4/10/2024 3:49:57 PM Fujian Da Qin : 2024-04-10 15:48:34 Process Completed...
+4/10/2024 3:49:57 PM ====================================

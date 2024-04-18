@@ -1,0 +1,80 @@
+04-03-2024 12:10:33 ====================================
+04-03-2024 12:10:33 Fujian Da Qin : 2024-03-04 12:10:33 Process Started...
+3/4/2024 12:10:33 PM Default regional setting - English (India)
+3/4/2024 12:10:33 PM Current regional setting - English (United States)
+3/4/2024 12:10:33 PM Processing Started
+3/4/2024 12:10:47 PM Link loaded
+3/4/2024 12:10:48 PM logged in
+3/4/2024 12:10:48 PM Log In Successful
+3/4/2024 12:10:48 PM Processing RFQ
+3/4/2024 12:10:56 PM RFQ generation Started
+04-03-2024 15:09:55 ====================================
+04-03-2024 15:09:55 Fujian Da Qin : 2024-03-04 15:09:54 Process Started...
+3/4/2024 3:09:55 PM Default regional setting - English (India)
+3/4/2024 3:09:55 PM Current regional setting - English (United States)
+3/4/2024 3:09:55 PM Processing Started
+3/4/2024 3:10:00 PM Link loaded
+3/4/2024 3:10:00 PM logged in
+3/4/2024 3:10:00 PM Log In Successful
+3/4/2024 3:10:00 PM Processing RFQ
+3/4/2024 3:10:03 PM RFQ generation Started
+04-03-2024 16:19:08 ====================================
+04-03-2024 16:19:08 Fujian Da Qin : 2024-03-04 16:19:08 Process Started...
+3/4/2024 4:19:08 PM Default regional setting - English (India)
+3/4/2024 4:19:08 PM Current regional setting - English (United States)
+3/4/2024 4:19:08 PM Processing Started
+3/4/2024 4:19:14 PM Link loaded
+3/4/2024 4:19:14 PM logged in
+3/4/2024 4:19:14 PM Log In Successful
+3/4/2024 4:19:14 PM Processing RFQ
+3/4/2024 4:19:19 PM RFQ generation Started
+04-03-2024 16:20:07 ====================================
+04-03-2024 16:20:07 Fujian Da Qin : 2024-03-04 16:20:07 Process Started...
+3/4/2024 4:20:08 PM Default regional setting - English (India)
+3/4/2024 4:20:08 PM Current regional setting - English (United States)
+3/4/2024 4:20:08 PM Processing Started
+3/4/2024 4:20:12 PM Link loaded
+3/4/2024 4:20:12 PM logged in
+3/4/2024 4:20:12 PM Log In Successful
+3/4/2024 4:20:12 PM Processing RFQ
+3/4/2024 4:20:14 PM RFQ generation Started
+04-03-2024 16:21:12 ====================================
+04-03-2024 16:21:12 Fujian Da Qin : 2024-03-04 16:21:12 Process Started...
+3/4/2024 4:21:13 PM Default regional setting - English (India)
+3/4/2024 4:21:13 PM Current regional setting - English (United States)
+3/4/2024 4:21:13 PM Processing Started
+3/4/2024 4:21:22 PM Link loaded
+3/4/2024 4:21:22 PM logged in
+3/4/2024 4:21:22 PM Log In Successful
+3/4/2024 4:21:22 PM Processing RFQ
+3/4/2024 4:21:27 PM RFQ generation Started
+04-03-2024 16:22:18 ====================================
+04-03-2024 16:22:18 Fujian Da Qin : 2024-03-04 16:22:18 Process Started...
+3/4/2024 4:22:18 PM Default regional setting - English (India)
+3/4/2024 4:22:18 PM Current regional setting - English (United States)
+3/4/2024 4:22:18 PM Processing Started
+3/4/2024 4:22:20 PM Link loaded
+3/4/2024 4:22:20 PM logged in
+3/4/2024 4:22:20 PM Log In Successful
+3/4/2024 4:22:20 PM Processing RFQ
+3/4/2024 4:22:20 PM RFQ generation Started
+04-03-2024 16:23:05 ====================================
+04-03-2024 16:23:05 Fujian Da Qin : 2024-03-04 16:23:05 Process Started...
+3/4/2024 4:23:05 PM Default regional setting - English (India)
+3/4/2024 4:23:05 PM Current regional setting - English (United States)
+3/4/2024 4:23:05 PM Processing Started
+3/4/2024 4:23:06 PM Link loaded
+3/4/2024 4:23:07 PM logged in
+3/4/2024 4:23:07 PM Log In Successful
+3/4/2024 4:23:07 PM Processing RFQ
+3/4/2024 4:23:07 PM RFQ generation Started
+04-03-2024 16:23:46 ====================================
+04-03-2024 16:23:46 Fujian Da Qin : 2024-03-04 16:23:46 Process Started...
+3/4/2024 4:23:46 PM Default regional setting - English (India)
+3/4/2024 4:23:46 PM Current regional setting - English (United States)
+3/4/2024 4:23:46 PM Processing Started
+3/4/2024 4:23:47 PM Link loaded
+3/4/2024 4:23:47 PM logged in
+3/4/2024 4:23:47 PM Log In Successful
+3/4/2024 4:23:47 PM Processing RFQ
+3/4/2024 4:23:47 PM RFQ generation Started

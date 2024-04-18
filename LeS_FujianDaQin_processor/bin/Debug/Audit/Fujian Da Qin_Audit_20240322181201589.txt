@@ -1,0 +1,1 @@
+||Fujian Da Qin|||ERROR|24-03-22 18:12 : Error occurred while reading AppSettings xml -Could not find file 'C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\bin\Debug\''.|0||RapaxTech111|V00006|Fujian Da Qin

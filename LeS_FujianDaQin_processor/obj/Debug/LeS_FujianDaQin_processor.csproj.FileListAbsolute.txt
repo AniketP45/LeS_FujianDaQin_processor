@@ -1,0 +1,13 @@
+C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\bin\Debug\LeS_FujianDaQin_processor.exe.config
+C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\bin\Debug\LeS_FujianDaQin_processor.exe
+C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\bin\Debug\LeS_FujianDaQin_processor.pdb
+C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\bin\Debug\FujianDaQin_Routine.dll
+C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\bin\Debug\SautinSoft.PdfVision.dll
+C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\bin\Debug\FujianDaQin_Routine.pdb
+C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\obj\Debug\LeS_FujianDaQin_processor.csproj.AssemblyReference.cache
+C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\obj\Debug\LeS_FujianDaQin_processor.csproj.CoreCompileInputs.cache
+C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\obj\Debug\LeS_FujianDaQin_processor.csproj.CopyComplete
+C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\obj\Debug\LeS_FujianDaQin_processor.exe
+C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\obj\Debug\LeS_FujianDaQin_processor.pdb

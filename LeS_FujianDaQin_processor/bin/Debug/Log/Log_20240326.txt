@@ -1,0 +1,31 @@
+26-03-2024 12:04:23 ====================================
+26-03-2024 12:04:23 Fujian Da Qin : 2024-03-26 12:04:22 Process Started...
+3/26/2024 12:04:23 PM Default regional setting - English (India)
+3/26/2024 12:04:23 PM Current regional setting - English (United States)
+3/26/2024 12:04:23 PM Processing Started
+3/26/2024 12:04:24 PM Link loaded
+3/26/2024 12:04:25 PM logged in
+3/26/2024 12:04:25 PM Log In Successful
+3/26/2024 12:04:25 PM Processing RFQ
+3/26/2024 12:04:25 PM 1 :  Started RFQ generation for HT16HMA-24023-0000
+3/26/2024 12:04:26 PM Start filling HeaderData in MTML
+3/26/2024 12:04:26 PM Start filling PartyAddress in MTML
+3/26/2024 12:04:26 PM Start filling LineItems in MTML
+3/26/2024 12:04:26 PM RFQ Mtml Generated for HT16HMA-24023-0000
+3/26/2024 12:04:26 PM RFQ HT23MMA-24026-0000 is already created
+3/26/2024 12:04:26 PM --------*Process for RFQ is Done*--------*--------
+3/26/2024 12:04:26 PM Fujian Da Qin : 2024-03-26 12:04:22 Process Completed...
+3/26/2024 12:04:26 PM ====================================
+26-03-2024 12:15:01 ====================================
+26-03-2024 12:15:01 Fujian Da Qin : 2024-03-26 12:15:00 Process Started...
+3/26/2024 12:15:01 PM Default regional setting - English (India)
+3/26/2024 12:15:01 PM Current regional setting - English (United States)
+3/26/2024 12:15:01 PM Processing Started
+3/26/2024 12:15:01 PM Link loaded
+3/26/2024 12:15:02 PM logged in
+3/26/2024 12:15:02 PM Log In Successful
+3/26/2024 12:15:02 PM Processing RFQ
+3/26/2024 12:15:05 PM Error while Extrating RFQ number from Mail file :Could not find a part of the path 'F:\LeS\eSupplierPortal\WebScriptBuyers\HIGHTON_WEB\Inbox'.
+3/26/2024 12:15:05 PM --------*Process for RFQ is Done*--------*--------
+3/26/2024 12:15:05 PM Fujian Da Qin : 2024-03-26 12:15:00 Process Completed...
+3/26/2024 12:15:05 PM ====================================

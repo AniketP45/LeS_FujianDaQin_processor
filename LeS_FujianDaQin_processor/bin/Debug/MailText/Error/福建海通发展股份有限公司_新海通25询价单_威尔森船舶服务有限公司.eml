@@ -1,0 +1,150 @@
+Received: from DU0P251MB0532.EURP251.PROD.OUTLOOK.COM (2603:10a6:10:328::20)
+ by DU0P251MB0574.EURP251.PROD.OUTLOOK.COM with HTTPS; Sat, 13 Jan 2024
+ 03:07:02 +0000
+Received: from AS9PR05CA0174.eurprd05.prod.outlook.com (2603:10a6:20b:496::6)
+ by DU0P251MB0532.EURP251.PROD.OUTLOOK.COM (2603:10a6:10:328::20) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7202.15; Sat, 13 Jan
+ 2024 03:07:01 +0000
+Received: from AMS0EPF000001AA.eurprd05.prod.outlook.com
+ (2603:10a6:20b:496:cafe::92) by AS9PR05CA0174.outlook.office365.com
+ (2603:10a6:20b:496::6) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7181.23 via Frontend
+ Transport; Sat, 13 Jan 2024 03:07:01 +0000
+Authentication-Results: spf=pass (sender IP is 45.195.24.104)
+ smtp.mailfrom=fz-highton.com; dkim=none (message not signed)
+ header.d=none;dmarc=bestguesspass action=none
+ header.from=fz-highton.com;compauth=pass reason=109
+Received-SPF: Pass (protection.outlook.com: domain of fz-highton.com
+ designates 45.195.24.104 as permitted sender)
+ receiver=protection.outlook.com; client-ip=45.195.24.104;
+ helo=mail-m24104.xmail.ntesmail.com; pr=C
+Received: from mail-m24104.xmail.ntesmail.com (45.195.24.104) by
+ AMS0EPF000001AA.mail.protection.outlook.com (10.167.16.150) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.7181.14 via Frontend Transport; Sat, 13 Jan 2024 03:06:59 +0000
+Received: from smtp.qiye.163.com (unknown [101.132.98.153])
+	by smtp.qiye.163.com (Hmail) with ESMTPA id C8AF9920110
+	for <wss.cs.shanghai.products@wilhelmsen.com>; Sat, 13 Jan 2024 11:06:56 +0800 (CST)
+Date: Sat, 13 Jan 2024 11:06:56 +0800 (CST)
+From: cgb@fz-highton.com
+To: wss.cs.shanghai.products@wilhelmsen.com
+Cc: sunjingxia@fz-highton.com, cgb@fz-highton.com
+Message-ID: <2112194087.1883.1705115216869.JavaMail.Administrator@iZr5u7o08sfiieZ>
+Subject: =?GBK?B?uKO9qLqjzai3otW5ucm33dPQz965q8u+X9DCuqPNqA==?=
+ =?GBK?B?MjXRr7zbtaVfzf62+8mttKyysLf+zvHT0M/euavLvg==?=
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_1882_587371157.1705115216759"
+X-HM-Spam-Status: e1kfGhgUHx5ZQUpXWQgPGg8OCBgUHx5ZQUlOS1dZFg8aDwILHllBWSg2Ly
+	tZV1koWUFIS0tMN1dZLVlBSVdZDwkaFQgSH1lBWUMaGEpWHktIGUhDTxhITx4ZVRkRExYaEhckFA
+	4PWVdZGBILWUFZSktKVUpISVVCQ1VKTkhZV1kWGg8SFR0UWUFZT0tIVUpNT0lMTlVKS0tVSkJLS1
+	kG
+X-HM-Tid: 0a8d00c96bd90227kunmc8af9920110
+X-HM-MType: 1
+X-HM-Sender-Digest: e1kMHhlZQR0aFwgeV1kSHx4VD1lBWUc6MEk6TCo5Lzc0OQkfDEkYME02
+	N0owCzFVSlVKTEtOSkpOSUpMSk1JVTMWGhIXVRgcGTsdAVYTEhwTDxQVVRgUFkVZV1kSC1lBWUpL
+	SlVKSElVQkNVSk5IWVdZCAFZQUlITkI3Bg++
+Return-Path: cgb@fz-highton.com
+X-MS-Exchange-Organization-ExpirationStartTime: 13 Jan 2024 03:07:00.4545
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id:
+ 8229437a-95ff-42e4-3f77-08dc13e4b5df
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 5d0227ad-3bcc-4106-8cf3-16e735f3b4c4:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic:
+ AMS0EPF000001AA:EE_|DU0P251MB0532:EE_|DU0P251MB0574:EE_
+X-MS-Exchange-Organization-AuthSource:
+ AMS0EPF000001AA.eurprd05.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Office365-Filtering-Correlation-Id: 8229437a-95ff-42e4-3f77-08dc13e4b5df
+X-MS-Exchange-AtpMessageProperties: SA|SL
+X-MS-Exchange-Organization-SCL: 1
+X-Microsoft-Antispam: BCL:0;
+X-Forefront-Antispam-Report:
+ CIP:45.195.24.104;CTRY:MU;LANG:zh-cn;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:mail-m24104.xmail.ntesmail.com;PTR:mail-m24104.xmail.ntesmail.com;CAT:NONE;SFS:(13230031)(4636009)(7916004)(451199024)(1096003)(4326008)(5660300002)(34756004)(6966003)(966005)(6916009)(86362001)(224303003)(7596003)(7636003)(356005)(9686003)(956004)(83380400001)(107886003)(33964004)(26005)(336012)(33716001)(5008540100009)(14943795004);DIR:INB;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 13 Jan 2024 03:06:59.7045
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 8229437a-95ff-42e4-3f77-08dc13e4b5df
+X-MS-Exchange-CrossTenant-Id: 5d0227ad-3bcc-4106-8cf3-16e735f3b4c4
+X-MS-Exchange-CrossTenant-AuthSource:
+ AMS0EPF000001AA.eurprd05.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: DU0P251MB0532
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:02.4145637
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.7202.015
+X-Microsoft-Antispam-Mailbox-Delivery:
+ ucf:0;jmr:0;auth:0;dest:I;ENG:(910001)(944506478)(944626604)(920097)(930097)(140003)(1420123);
+X-Microsoft-Antispam-Message-Info:
+ =?utf-8?B?L2dyclJILzVuU3RrcEhnaFl6dXNwMFNxMEwwNFZIWUs5S1hXMnJWalBZMS9I?=
+ =?utf-8?B?ZkJtNTJtNk83TisxN2w2cUN0NkZVT01BbG00VjRQR3B3ak1NSGJ5WjlpOFBG?=
+ =?utf-8?B?bUtSNDVFQWFKdThNWndTaW5Vb2RiT1Bnb09rakhPRCtueUdJOFpSZ0EvRzdR?=
+ =?utf-8?B?WWRNNm4rbE5Rd2cyV3dwMmV5cHNnZ1BwcTNVVFBPL1l1ZTh5VUdmZExvb1dC?=
+ =?utf-8?B?cTV1S3pKay8zZDJmVUpTREwrN0xrU2hablRldzRhYzNUU243WUdrUkoyZVRR?=
+ =?utf-8?B?bUZzdndHd3JIM28zVVhlR3B4S1NtM2pVeWQ5Si9TeUc4QzU1RFBLNEwvTE42?=
+ =?utf-8?B?WTRZb05vSlRBUkxFeFNLcGtjY0hOa0EwOU0zQzhyTHlyelVtZHFkR1JWUmhh?=
+ =?utf-8?B?NXBQWlZHWXNtTEVrWWlocEVZWmhrVGMxeXk2KytXU1Y0dzBDcUtnWldkVnFI?=
+ =?utf-8?B?ZlF4b2c3d1krMUVWTjBuYkNQN1dXbmdQYXhvckVzMkJGWXV4dlNIZnJ0OWE4?=
+ =?utf-8?B?YnFHdG9mbWw2Rk90cGZ1OUFsTFdiNWxicXlaWjBiWGlXZlMwb2lSd2xTRUZQ?=
+ =?utf-8?B?eWZWOHR3SHZnWEdkWlQ5K0JsWktBTUJCeDZRZVg5S0pOUHdHTjBocWxpNlRr?=
+ =?utf-8?B?LzhVcWI2S3pIWEJESEhrSFRnbUdzOFhycVcxMlU3Ty9ibVVXNHF5OVBFSVh3?=
+ =?utf-8?B?N29KVnJlNVFjYWxMU3dYVjZmcmxnSG9LVGxrRFpuQnJTcTh2aGw5RHFmWlBP?=
+ =?utf-8?B?Umt2MnlZQlJnck95NEJDMFpwQlFvN0dCNVdEUWdkQ1NFWVR1RnZrQzREQmdB?=
+ =?utf-8?B?SHNhNXg2VEJtRHBEeVdYdkkzcTNPWnhHTlo0MVJzRWNnc0RJMmkyUUVxSXR5?=
+ =?utf-8?B?UFl3UDhZeWVOOFp3bENweFVoZGVBVkI1WnpwVnB5Qzhhcm0vL2RZczRKUjhD?=
+ =?utf-8?B?S2JoZ2NlR2xWUmlldiszRmYvVDFZKzBPSnVHSmdCa3llZWNKbEg5MmhXZDMw?=
+ =?utf-8?B?eUxyM0k2WmwveDZUUmllanppQ05XTG5FdmNGRDdsYU80dEYvUUY5a1pvSGR3?=
+ =?utf-8?B?bU9VcjFiQWo1a0ZZdVBBeEp2N0pDMTdXVjNUN3diOUNtY2RuYjVWQmtxdGpo?=
+ =?utf-8?B?dmsrWDNYc1MrMHdzeEpxQjdHaHZDQzRINHF6aGIyaXUvdkQxZzBjQWs0WXIz?=
+ =?utf-8?B?TG1HVkVZSVQ2bkw5UmFFSTg5NU1uUVZCb1EvSnlGSFR3ZkdGbUdxS24xSGdC?=
+ =?utf-8?B?Wis1b2x2blo1VitwTGFZQ0Y0WlZ4K1lwR2J2MGliVDZrSHdFNmQ2M1c1a3RB?=
+ =?utf-8?B?Q2F3YlZIU0FHeHo5aW5EdmlobzZWUzhmNnpWaHVEeE44ekdPZytoRlp6b1Vp?=
+ =?utf-8?B?ZkE4c3U5MVM5RkorbnNhN0MzWkVtbDRhMkxPdXkySHNuclhUdTl0Q3Q2S0c1?=
+ =?utf-8?B?czVLT0tXMWczVHFpVnBLRDBGMmFsaWFXa1ZoNEp3YmExKytFeW9SLy9aZWsy?=
+ =?utf-8?B?aFUxN3dEM1EzdHFIb3RiMXQ2M2Vjb1NBK2I0R2xTMHpVMk5WcE1acWZ4WHBK?=
+ =?utf-8?B?VWhzTFpvL25JaTlQbnFJbzg4SkpvL1VTRG1kcWZ5TjVBOTN4cTVrcFJaVGls?=
+ =?utf-8?B?ejc4WG1hNEs4SGgwdytTVmVSZGJxMmNWVjZ6S1MzMjdFZmtYTU9iYjZ1RWxG?=
+ =?utf-8?B?RmxmM3NMNm5YTHgzQlJPcVF1aHlDMWhpdmlRZWJXMW9nMlNzSm5qdmJnVjIr?=
+ =?utf-8?B?VmVVR1RMZEpJN2JNaDdVSUYrcklKYlRqVGdKSlBpVkJCMXVxemJRU0tBZGlV?=
+ =?utf-8?B?NVJ6VlEzSm5menpUNkFpZmJRN3BReXFQUEtMdlRYTWJtYThjaldxNkMyejBC?=
+ =?utf-8?B?MmVpaTRCcTlNSnZpK0JhM29jeC90dnlhcS9aZzlDUjhZRGY5TmdzSkQ4OEt2?=
+ =?utf-8?B?aWVMOWpLVjBnNzFxNzZsbVBMMGR3amgyOHNYYUtYajFmWWEvN0FtYXR4UXRn?=
+ =?utf-8?B?cEVqKzd1VzN3NVRuUEMzSTk5d3JJQzJEK2lOMkNpOTVrT3ZJemJtVHRRajZ2?=
+ =?utf-8?B?a2NHYS95K0hrUFdld0pWTVFxeVBRRzVsb21DUHpmd2FRZExlZkZJRDZxS0wz?=
+ =?utf-8?B?SEtXU2JXTUNTTmFlaEF2VWpURlA0VUMvYjQ3VWdPQU1mVnFBQmRhZzJOVGx3?=
+ =?utf-8?B?TnltWWV2Y1BsdWpIT093YTRyT0lNK1JBVi9nYnkrRDlvTDB3YkZVQ3Z1ZDZL?=
+ =?utf-8?B?QXlscU84RHZBTDFRa3Noc3Nmemh0MVdUOVpoQ1Z5emg2T3BraXMveFRWelZr?=
+ =?utf-8?B?eThzN1JjYnBKS2tRSXdxcWJtS0cwaTEzUEZINWJOVDJPRGYwbmV5c1gwWERG?=
+ =?utf-8?Q?SLyDI96C40+XCNCzA9VdlPwTLb6v6qIfbxi3f?=
+MIME-Version: 1.0
+
+------=_Part_1882_587371157.1705115216759
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">=
+=E5=A8=81=E5=B0=94=E6=A3=AE=E8=88=B9=E8=88=B6=E6=9C=8D=E5=8A=A1=E6=9C=89=E9=
+=99=90=E5=85=AC=E5=8F=B8:<br>=E6=88=91=E5=8F=B8=E8=88=B9=E8=88=B6&quot;=E6=
+=96=B0=E6=B5=B7=E9=80=9A25&quot;=E8=BD=AE=E9=9C=80=E8=A6=81=E9=87=87=E8=B4=
+=AD=E7=89=A9=E6=96=99,=E7=89=B9=E5=90=91=E6=82=A8=E8=AF=A2=E4=BB=B7!<br>=E8=
+=AF=B7=E7=99=BB=E9=99=86http://htsm.fjhighton.com/=E8=BF=9B=E8=A1=8C=E6=8A=
+=A5=E4=BB=B7!<br>=E7=99=BB=E5=BD=95=E8=B4=A6=E5=8F=B7=E4=B8=BA=E9=A2=84=E7=
+=95=99=E6=89=8B=E6=9C=BA=E5=8F=B7,=E5=88=9D=E5=A7=8B=E5=AF=86=E7=A0=81=E4=
+=B8=BA=E2=80=9Cgys@=E2=80=9D+=E6=89=8B=E6=9C=BA=E5=8F=B7=E5=90=8E6=E4=BD=8D=
+<br>=E8=AF=A2=E4=BB=B7=E5=8D=95=E5=8F=B7:HT25MMA-24005<br>=E8=AF=B7=E6=A0=
+=B8=E6=9F=A5,=E8=B0=A2=E8=B0=A2!<br>2024/1/13<br>=E7=BB=8F=E5=8A=9E=E4=BA=
+=BA:=E5=AD=99=E6=99=AF=E9=9C=9E<br><br>Wilhelmsen Ships Service:<br>Our com=
+pany requires the following stores materials for MV &quot;XIN HAI TONG 25&q=
+uot;. We kindly request your quotation and look forward to receiving it pro=
+mptly.<br>Please log in to http://htsm.fjhighton.com/ to submit your quotat=
+ion.<br>The login account is the reserved mobile number. The initial passwo=
+rd is &quot;gys@&quot; + the last six digits of the mobile number.<br>Inqui=
+ry number:HT25MMA-24005<br>Please Verify, thank you!<br>2024/1/13<br>Operat=
+or:=E5=AD=99=E6=99=AF=E9=9C=9E=
+
+------=_Part_1882_587371157.1705115216759--

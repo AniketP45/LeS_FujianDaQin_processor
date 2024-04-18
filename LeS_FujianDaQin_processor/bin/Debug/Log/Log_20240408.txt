@@ -1,0 +1,29 @@
+08-04-2024 10:40:29 ====================================
+08-04-2024 10:40:29 Fujian Da Qin : 2024-04-08 10:40:28 Process Started...
+4/8/2024 10:40:29 AM Default regional setting - English (India)
+4/8/2024 10:40:29 AM Current regional setting - English (United States)
+4/8/2024 10:40:29 AM Processing Started
+4/8/2024 10:40:30 AM Link loaded
+4/8/2024 10:40:30 AM logged in
+4/8/2024 10:40:30 AM Log In Successful
+4/8/2024 10:40:30 AM Processing RFQ
+4/8/2024 10:40:50 AM 1 :  Started RFQ generation for HT25MMA-24019-0000
+4/8/2024 10:40:56 AM Start filling HeaderData in MTML
+4/8/2024 10:41:19 AM Start filling PartyAddress in MTML
+4/8/2024 10:41:56 AM Start filling LineItems in MTML
+4/8/2024 10:43:12 AM RFQ Mtml Generated for HT25MMA-24019-0000
+4/8/2024 10:43:23 AM 2 :  Started RFQ generation for HT22MMA-24016-0000
+4/8/2024 10:43:25 AM Start filling HeaderData in MTML
+4/8/2024 10:43:28 AM Start filling PartyAddress in MTML
+4/8/2024 10:43:31 AM Start filling LineItems in MTML
+4/8/2024 10:44:09 AM RFQ Mtml Generated for HT22MMA-24016-0000
+08-04-2024 10:45:41 ====================================
+08-04-2024 10:45:41 Fujian Da Qin : 2024-04-08 10:45:41 Process Started...
+4/8/2024 10:45:41 AM Default regional setting - English (India)
+4/8/2024 10:45:41 AM Current regional setting - English (United States)
+4/8/2024 10:45:41 AM Processing Started
+4/8/2024 10:45:41 AM Link loaded
+4/8/2024 10:45:41 AM logged in
+4/8/2024 10:45:41 AM Log In Successful
+4/8/2024 10:45:41 AM Processing RFQ
+4/8/2024 10:46:45 AM RFQNO not found in this file:C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\bin\Debug\MailText\4001051_240320_125820502.txt
