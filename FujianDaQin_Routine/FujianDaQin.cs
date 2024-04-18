@@ -59,7 +59,6 @@ namespace FujianDaQin_Routine
                 LogText = "Error occurred while initialization" + ex.Message;
             }
         }
-
         private void LoadAppsettingsXML()
         {
             try
@@ -322,6 +321,8 @@ namespace FujianDaQin_Routine
             }
             return RFQNO;
         }
+
+        //CHECKING FOR GIT CHANGES
 
         public string GetDataAfterLogin()
         {
