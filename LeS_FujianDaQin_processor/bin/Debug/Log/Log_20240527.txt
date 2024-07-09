@@ -1,0 +1,126 @@
+27-05-2024 14:07:02 ====================================
+27-05-2024 14:07:02 Fujian Da Qin : 2024-05-27 14:07:00 Process Started...
+5/27/2024 2:07:02 PM Default regional setting - English (India)
+5/27/2024 2:07:02 PM Current regional setting - English (United States)
+5/27/2024 2:07:02 PM Processing Started
+5/27/2024 2:07:02 PM Link loaded
+5/27/2024 2:07:03 PM logged in
+5/27/2024 2:07:03 PM Log In Successful
+5/27/2024 2:07:03 PM Processing QUOTE
+5/27/2024 2:07:03 PM Quote processing Started
+5/27/2024 2:07:04 PM Started filling post body for LineItems
+5/27/2024 2:07:04 PM Completed post body for LineItems
+5/27/2024 2:07:09 PM LineItem Saves SuccessFully
+5/27/2024 2:09:38 PM Quote Attachment : OrderQuotation_C76243_240527_074055735.pdf uploaded sucessfully
+5/27/2024 2:09:38 PM Error on MoveFiles : Could not find file 'C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\bin\Debug\OrderQuotation_C76243_240527_074055735.pdf'.
+5/27/2024 2:09:45 PM Quote processing Stopped.
+5/27/2024 2:09:45 PM --------*Process for QUOTE is Done*--------*--------
+5/27/2024 2:09:45 PM Fujian Da Qin : 2024-05-27 14:07:00 Process Completed...
+5/27/2024 2:09:45 PM ====================================
+27-05-2024 14:22:32 ====================================
+27-05-2024 14:22:32 Fujian Da Qin : 2024-05-27 14:22:32 Process Started...
+5/27/2024 2:22:32 PM Default regional setting - English (India)
+5/27/2024 2:22:32 PM Current regional setting - English (United States)
+5/27/2024 2:22:32 PM Processing Started
+5/27/2024 2:22:32 PM Link loaded
+5/27/2024 2:22:32 PM logged in
+5/27/2024 2:22:32 PM Log In Successful
+5/27/2024 2:22:32 PM Processing QUOTE
+5/27/2024 2:22:32 PM Quote processing Started
+5/27/2024 2:22:47 PM Started filling post body for LineItems
+5/27/2024 2:22:47 PM Completed post body for LineItems
+5/27/2024 2:22:50 PM LineItem Saves SuccessFully
+5/27/2024 2:25:33 PM Quote Attachment : OrderQuotation_C76243_240527_074055735.pdf uploaded sucessfully
+5/27/2024 2:26:36 PM Error on MoveFiles : Could not find file 'C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\bin\Debug\OrderQuotation_C76243_240527_074055735.pdf'.
+5/27/2024 2:27:24 PM Quote processing Stopped.
+5/27/2024 2:27:24 PM --------*Process for QUOTE is Done*--------*--------
+5/27/2024 2:27:24 PM Fujian Da Qin : 2024-05-27 14:22:32 Process Completed...
+5/27/2024 2:27:24 PM ====================================
+27-05-2024 14:31:44 ====================================
+27-05-2024 14:31:44 Fujian Da Qin : 2024-05-27 14:31:44 Process Started...
+5/27/2024 2:31:44 PM Default regional setting - English (India)
+5/27/2024 2:31:44 PM Current regional setting - English (United States)
+5/27/2024 2:31:44 PM Processing Started
+5/27/2024 2:31:53 PM Link loaded
+5/27/2024 2:31:53 PM logged in
+5/27/2024 2:31:53 PM Log In Successful
+5/27/2024 2:31:53 PM Processing QUOTE
+5/27/2024 2:31:53 PM Quote processing Started
+5/27/2024 2:31:57 PM Started filling post body for LineItems
+5/27/2024 2:31:57 PM Completed post body for LineItems
+5/27/2024 2:32:00 PM LineItem Saves SuccessFully
+27-05-2024 14:34:42 ====================================
+27-05-2024 14:34:42 Fujian Da Qin : 2024-05-27 14:34:42 Process Started...
+5/27/2024 2:34:42 PM Default regional setting - English (India)
+5/27/2024 2:34:42 PM Current regional setting - English (United States)
+5/27/2024 2:34:42 PM Processing Started
+5/27/2024 2:34:43 PM Link loaded
+5/27/2024 2:34:43 PM logged in
+5/27/2024 2:34:43 PM Log In Successful
+5/27/2024 2:34:43 PM Processing QUOTE
+5/27/2024 2:34:43 PM Quote processing Started
+5/27/2024 2:34:48 PM Started filling post body for LineItems
+5/27/2024 2:34:48 PM Completed post body for LineItems
+5/27/2024 2:34:50 PM LineItem Saves SuccessFully
+5/27/2024 2:35:28 PM Quote Attachment : OrderQuotation_C76243_240527_074055735.pdf uploaded sucessfully
+5/27/2024 2:35:28 PM Error on MoveFiles : Could not find file 'C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\bin\Debug\OrderQuotation_C76243_240527_074055735.pdf'.
+5/27/2024 2:35:29 PM Quote processing Stopped.
+5/27/2024 2:35:29 PM --------*Process for QUOTE is Done*--------*--------
+5/27/2024 2:35:29 PM Fujian Da Qin : 2024-05-27 14:34:42 Process Completed...
+5/27/2024 2:35:29 PM ====================================
+27-05-2024 14:38:38 ====================================
+27-05-2024 14:38:38 Fujian Da Qin : 2024-05-27 14:38:38 Process Started...
+5/27/2024 2:38:38 PM Default regional setting - English (India)
+5/27/2024 2:38:38 PM Current regional setting - English (United States)
+5/27/2024 2:38:38 PM Processing Started
+5/27/2024 2:38:39 PM Link loaded
+5/27/2024 2:38:40 PM logged in
+5/27/2024 2:38:40 PM Log In Successful
+5/27/2024 2:38:40 PM Processing QUOTE
+5/27/2024 2:38:40 PM Quote processing Started
+5/27/2024 2:38:44 PM Started filling post body for LineItems
+5/27/2024 2:38:44 PM Completed post body for LineItems
+5/27/2024 2:38:47 PM LineItem Saves SuccessFully
+5/27/2024 2:39:07 PM Quote Attachment : OrderQuotation_C76243_240527_074055735.pdf uploaded sucessfully
+5/27/2024 2:39:07 PM Error on MoveFiles : Could not find file 'C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\bin\Debug\OrderQuotation_C76243_240527_074055735.pdf'.
+5/27/2024 2:39:08 PM Quote processing Stopped.
+5/27/2024 2:39:08 PM --------*Process for QUOTE is Done*--------*--------
+5/27/2024 2:39:08 PM Fujian Da Qin : 2024-05-27 14:38:38 Process Completed...
+5/27/2024 2:39:08 PM ====================================
+27-05-2024 14:42:50 ====================================
+27-05-2024 14:42:50 Fujian Da Qin : 2024-05-27 14:42:50 Process Started...
+5/27/2024 2:42:50 PM Default regional setting - English (India)
+5/27/2024 2:42:50 PM Current regional setting - English (United States)
+5/27/2024 2:42:50 PM Processing Started
+5/27/2024 2:42:51 PM Link loaded
+5/27/2024 2:42:51 PM logged in
+5/27/2024 2:42:51 PM Log In Successful
+5/27/2024 2:42:51 PM Processing QUOTE
+5/27/2024 2:42:51 PM Quote processing Started
+5/27/2024 2:42:56 PM Started filling post body for LineItems
+5/27/2024 2:42:56 PM Completed post body for LineItems
+5/27/2024 2:42:58 PM LineItem Saves SuccessFully
+5/27/2024 2:43:09 PM Quote Attachment : OrderQuotation_C76243_240527_074055735.pdf uploaded sucessfully
+5/27/2024 2:43:09 PM Error on MoveFiles : Could not find file 'C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\bin\Debug\OrderQuotation_C76243_240527_074055735.pdf'.
+5/27/2024 2:43:10 PM Quote processing Stopped.
+5/27/2024 2:43:10 PM --------*Process for QUOTE is Done*--------*--------
+5/27/2024 2:43:10 PM Fujian Da Qin : 2024-05-27 14:42:50 Process Completed...
+5/27/2024 2:43:10 PM ====================================
+27-05-2024 15:09:09 ====================================
+27-05-2024 15:09:09 Fujian Da Qin : 2024-05-27 15:09:09 Process Started...
+5/27/2024 3:09:09 PM Default regional setting - English (India)
+5/27/2024 3:09:09 PM Current regional setting - English (United States)
+5/27/2024 3:09:09 PM Processing Started
+5/27/2024 3:09:13 PM Link loaded
+5/27/2024 3:09:13 PM logged in
+5/27/2024 3:09:13 PM Log In Successful
+5/27/2024 3:09:13 PM Processing QUOTE
+5/27/2024 3:09:13 PM Quote processing Started
+5/27/2024 3:09:15 PM Started filling post body for LineItems
+5/27/2024 3:09:15 PM Completed post body for LineItems
+5/27/2024 3:09:30 PM LineItem Saves SuccessFully
+5/27/2024 3:13:00 PM Quote Attachment : OrderQuotation_C76243_240527_074055735.pdf uploaded sucessfully
+5/27/2024 3:13:13 PM Quote processing Stopped.
+5/27/2024 3:13:15 PM --------*Process for QUOTE is Done*--------*--------
+5/27/2024 3:13:19 PM Fujian Da Qin : 2024-05-27 15:09:09 Process Completed...
+5/27/2024 3:13:19 PM ====================================

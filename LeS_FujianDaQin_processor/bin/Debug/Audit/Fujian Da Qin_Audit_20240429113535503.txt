@@ -1,0 +1,3 @@
+||Fujian Da Qin|MTML_QUOTE_HT25MMA-24019-0000_SM4218_V10001_26042403385161.xml|HT25MMA-24019-0000|Error|24-04-29 11:35 : Unable to process the file -Error on Load Interchange Details : System.UnauthorizedAccessException: Access to the path 'C:\OrderQuotation_C75279_240426_033735812.pdf' is denied.
+   at FujianDaQin_Routine.FujianDaQin.ReadAttachments(String fXML, DocHeader obj) in C:\2-NP\LeS_FujianDaQin_processor\FujianDaQin_Routine\FujianDaQin.cs:line 1123
+   at FujianDaQin_Routine.FujianDaQin.LoadInterchangeDetails(String xmlQuoteFile) in C:\2-NP\LeS_FujianDaQin_processor\FujianDaQin_Routine\FujianDaQin.cs:line 1069|0||||Fujian Da Qin

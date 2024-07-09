@@ -11,3 +11,4 @@ C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\obj\Debug\LeS_Fujian
 C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\obj\Debug\LeS_FujianDaQin_processor.csproj.CopyComplete
 C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\obj\Debug\LeS_FujianDaQin_processor.exe
 C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\obj\Debug\LeS_FujianDaQin_processor.pdb
+C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\bin\Debug\FILE.Conversion.dll

@@ -1,0 +1,72 @@
+24-06-2024 14:11:23 ====================================
+24-06-2024 14:11:23 Fujian Da Qin : 2024-06-24 14:11:21 Process Started...
+6/24/2024 2:11:23 PM Default regional setting - English (India)
+6/24/2024 2:11:23 PM Current regional setting - English (United States)
+6/24/2024 2:11:23 PM Processing Started
+6/24/2024 2:11:23 PM Link loaded
+6/24/2024 2:11:24 PM logged in
+6/24/2024 2:11:24 PM Log In Successful
+6/24/2024 2:11:24 PM Processing QUOTE
+6/24/2024 2:11:24 PM Quote processing Started
+6/24/2024 2:11:25 PM Started filling post body for LineItems
+6/24/2024 2:11:25 PM Completed post body for LineItems
+6/24/2024 2:11:29 PM LineItem Saves SuccessFully
+6/24/2024 2:11:41 PM Quote Attachment : OrderQuotation_C77089_240624_075102275.pdf uploaded sucessfully
+6/24/2024 2:11:42 PM Quote processing Stopped.
+6/24/2024 2:11:42 PM --------*Process for QUOTE is Done*--------*--------
+6/24/2024 2:11:42 PM Fujian Da Qin : 2024-06-24 14:11:21 Process Completed...
+6/24/2024 2:11:42 PM ====================================
+24-06-2024 17:02:51 ====================================
+24-06-2024 17:02:51 Fujian Da Qin : 2024-06-24 17:02:50 Process Started...
+6/24/2024 5:02:51 PM Default regional setting - English (India)
+6/24/2024 5:02:51 PM Current regional setting - English (United States)
+6/24/2024 5:02:51 PM Processing Started
+6/24/2024 5:02:52 PM Link loaded
+6/24/2024 5:02:52 PM logged in
+6/24/2024 5:02:52 PM Log In Successful
+6/24/2024 5:02:52 PM Processing QUOTE
+6/24/2024 5:02:52 PM Quote processing Started
+6/24/2024 5:02:53 PM Started filling post body for LineItems
+6/24/2024 5:02:53 PM Completed post body for LineItems
+6/24/2024 5:02:56 PM LineItem Saves SuccessFully
+6/24/2024 5:03:04 PM Quote Attachment : OrderQuotation_C76992_240620_105104712.pdf uploaded sucessfully
+6/24/2024 5:03:05 PM Quote processing Stopped.
+6/24/2024 5:03:05 PM --------*Process for QUOTE is Done*--------*--------
+6/24/2024 5:03:05 PM Fujian Da Qin : 2024-06-24 17:02:50 Process Completed...
+6/24/2024 5:03:05 PM ====================================
+24-06-2024 17:16:15 ====================================
+24-06-2024 17:16:15 Fujian Da Qin : 2024-06-24 17:16:15 Process Started...
+6/24/2024 5:16:15 PM Default regional setting - English (India)
+6/24/2024 5:16:15 PM Current regional setting - English (United States)
+6/24/2024 5:16:15 PM Processing Started
+6/24/2024 5:16:16 PM Link loaded
+6/24/2024 5:16:16 PM logged in
+6/24/2024 5:16:16 PM Log In Successful
+6/24/2024 5:16:16 PM Processing QUOTE
+6/24/2024 5:16:16 PM Quote processing Started
+6/24/2024 5:16:17 PM Started filling post body for LineItems
+6/24/2024 5:16:17 PM Completed post body for LineItems
+6/24/2024 5:16:21 PM LineItem Saves SuccessFully
+6/24/2024 5:16:34 PM Quote Attachment : OrderQuotation_C76992_240620_105104712.pdf uploaded sucessfully
+6/24/2024 5:16:36 PM Quote processing Stopped.
+6/24/2024 5:16:36 PM --------*Process for QUOTE is Done*--------*--------
+6/24/2024 5:16:36 PM Fujian Da Qin : 2024-06-24 17:16:15 Process Completed...
+6/24/2024 5:16:36 PM ====================================
+24-06-2024 17:36:58 ====================================
+24-06-2024 17:36:58 Fujian Da Qin : 2024-06-24 17:36:57 Process Started...
+6/24/2024 5:36:58 PM Default regional setting - English (India)
+6/24/2024 5:36:58 PM Current regional setting - English (United States)
+6/24/2024 5:36:58 PM Processing Started
+6/24/2024 5:37:00 PM Link loaded
+6/24/2024 5:37:01 PM logged in
+6/24/2024 5:37:01 PM Log In Successful
+6/24/2024 5:37:01 PM Processing QUOTE
+6/24/2024 5:37:01 PM Quote processing Started
+6/24/2024 5:37:02 PM Started filling post body for LineItems
+6/24/2024 5:37:02 PM Completed post body for LineItems
+6/24/2024 5:37:05 PM LineItem Saves SuccessFully
+6/24/2024 5:37:29 PM Quote Attachment : OrderQuotation_C76992_240620_105104712.pdf uploaded sucessfully
+6/24/2024 5:37:30 PM Quote processing Stopped.
+6/24/2024 5:37:30 PM --------*Process for QUOTE is Done*--------*--------
+6/24/2024 5:37:30 PM Fujian Da Qin : 2024-06-24 17:36:57 Process Completed...
+6/24/2024 5:37:30 PM ====================================

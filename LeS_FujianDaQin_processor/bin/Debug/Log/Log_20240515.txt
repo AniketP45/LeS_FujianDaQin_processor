@@ -1,0 +1,14 @@
+15-05-2024 10:00:54 ====================================
+15-05-2024 10:00:54 Fujian Da Qin : 2024-05-15 10:00:53 Process Started...
+5/15/2024 10:00:55 AM Default regional setting - English (India)
+5/15/2024 10:00:55 AM Current regional setting - English (United States)
+5/15/2024 10:00:55 AM Processing Started
+5/15/2024 10:00:56 AM Link loaded
+5/15/2024 10:00:57 AM logged in
+5/15/2024 10:00:57 AM Log In Successful
+5/15/2024 10:00:57 AM Processing QUOTE
+5/15/2024 10:00:57 AM Quote processing Started
+5/15/2024 10:01:49 AM Quote processing Stopped.
+5/15/2024 10:01:54 AM --------*Process for QUOTE is Done*--------*--------
+5/15/2024 10:01:54 AM Fujian Da Qin : 2024-05-15 10:00:53 Process Completed...
+5/15/2024 10:01:54 AM ====================================

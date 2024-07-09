@@ -1,0 +1,248 @@
+13-05-2024 09:44:09 ====================================
+13-05-2024 09:44:09 Fujian Da Qin : 2024-05-13 09:44:07 Process Started...
+5/13/2024 9:44:09 AM Default regional setting - English (India)
+5/13/2024 9:44:09 AM Current regional setting - English (United States)
+5/13/2024 9:44:09 AM Processing Started
+5/13/2024 9:44:09 AM Error occurred while reading AppSettings xml -The remote name could not be resolved: 'htsm.fjhighton.com'
+5/13/2024 9:44:09 AM Fujian Da Qin : 2024-05-13 09:44:07 Process Completed...
+5/13/2024 9:44:09 AM ====================================
+13-05-2024 09:45:02 ====================================
+13-05-2024 09:45:02 Fujian Da Qin : 2024-05-13 09:45:02 Process Started...
+5/13/2024 9:45:02 AM Default regional setting - English (India)
+5/13/2024 9:45:02 AM Current regional setting - English (United States)
+5/13/2024 9:45:44 AM Processing Started
+13-05-2024 09:46:26 ====================================
+13-05-2024 09:46:26 Fujian Da Qin : 2024-05-13 09:46:26 Process Started...
+5/13/2024 9:46:26 AM Default regional setting - English (India)
+5/13/2024 9:46:26 AM Current regional setting - English (United States)
+5/13/2024 9:46:30 AM Processing Started
+13-05-2024 09:51:05 ====================================
+13-05-2024 09:51:05 Fujian Da Qin : 2024-05-13 09:51:05 Process Started...
+5/13/2024 9:51:05 AM Default regional setting - English (India)
+5/13/2024 9:51:05 AM Current regional setting - English (United States)
+5/13/2024 9:51:05 AM Processing Started
+5/13/2024 9:51:21 AM Link loaded
+5/13/2024 9:51:21 AM logged in
+5/13/2024 9:51:21 AM Log In Successful
+5/13/2024 9:51:21 AM Processing QUOTE
+5/13/2024 9:51:29 AM Quote processing Started
+13-05-2024 10:22:57 ====================================
+13-05-2024 10:22:57 Fujian Da Qin : 2024-05-13 10:22:57 Process Started...
+5/13/2024 10:22:57 AM Default regional setting - English (India)
+5/13/2024 10:22:57 AM Current regional setting - English (United States)
+5/13/2024 10:22:57 AM Processing Started
+5/13/2024 10:22:58 AM Link loaded
+5/13/2024 10:22:58 AM logged in
+5/13/2024 10:22:58 AM Log In Successful
+5/13/2024 10:22:58 AM Processing QUOTE
+5/13/2024 10:23:01 AM Quote processing Started
+13-05-2024 10:33:41 ====================================
+13-05-2024 10:33:41 Fujian Da Qin : 2024-05-13 10:33:40 Process Started...
+5/13/2024 10:33:41 AM Default regional setting - English (India)
+5/13/2024 10:33:41 AM Current regional setting - English (United States)
+5/13/2024 10:33:41 AM Processing Started
+5/13/2024 10:33:41 AM Link loaded
+5/13/2024 10:33:41 AM logged in
+5/13/2024 10:33:41 AM Log In Successful
+5/13/2024 10:33:41 AM Processing QUOTE
+5/13/2024 10:33:44 AM Quote processing Started
+13-05-2024 10:44:14 ====================================
+13-05-2024 10:44:14 Fujian Da Qin : 2024-05-13 10:44:14 Process Started...
+5/13/2024 10:44:14 AM Default regional setting - English (India)
+5/13/2024 10:44:14 AM Current regional setting - English (United States)
+5/13/2024 10:44:14 AM Processing Started
+5/13/2024 10:44:15 AM Link loaded
+5/13/2024 10:44:15 AM logged in
+5/13/2024 10:44:15 AM Log In Successful
+5/13/2024 10:44:15 AM Processing QUOTE
+5/13/2024 10:44:17 AM Quote processing Started
+13-05-2024 10:59:56 ====================================
+13-05-2024 10:59:56 Fujian Da Qin : 2024-05-13 10:59:56 Process Started...
+5/13/2024 10:59:56 AM Default regional setting - English (India)
+5/13/2024 10:59:56 AM Current regional setting - English (United States)
+5/13/2024 10:59:56 AM Processing Started
+5/13/2024 10:59:57 AM Link loaded
+5/13/2024 10:59:57 AM logged in
+5/13/2024 10:59:57 AM Log In Successful
+5/13/2024 10:59:57 AM Processing QUOTE
+5/13/2024 11:00:00 AM Quote processing Started
+5/13/2024 11:01:37 AM Unable to process the file -An item with the same key has already been added.
+5/13/2024 11:01:38 AM Quote processing Stopped.
+5/13/2024 11:01:38 AM --------*Process for QUOTE is Done*--------*--------
+5/13/2024 11:01:38 AM Fujian Da Qin : 2024-05-13 10:59:56 Process Completed...
+5/13/2024 11:01:38 AM ====================================
+13-05-2024 11:01:58 ====================================
+13-05-2024 11:01:58 Fujian Da Qin : 2024-05-13 11:01:58 Process Started...
+5/13/2024 11:01:58 AM Default regional setting - English (India)
+5/13/2024 11:01:58 AM Current regional setting - English (United States)
+5/13/2024 11:01:58 AM Processing Started
+5/13/2024 11:01:59 AM Link loaded
+5/13/2024 11:01:59 AM logged in
+5/13/2024 11:01:59 AM Log In Successful
+5/13/2024 11:01:59 AM Processing QUOTE
+5/13/2024 11:02:03 AM Quote processing Started
+5/13/2024 11:02:03 AM No Quote files found to process.
+5/13/2024 11:02:03 AM Quote processing Stopped.
+5/13/2024 11:02:03 AM --------*Process for QUOTE is Done*--------*--------
+5/13/2024 11:02:03 AM Fujian Da Qin : 2024-05-13 11:01:58 Process Completed...
+5/13/2024 11:02:03 AM ====================================
+13-05-2024 11:03:38 ====================================
+13-05-2024 11:03:38 Fujian Da Qin : 2024-05-13 11:03:38 Process Started...
+5/13/2024 11:03:38 AM Default regional setting - English (India)
+5/13/2024 11:03:38 AM Current regional setting - English (United States)
+5/13/2024 11:03:38 AM Processing Started
+5/13/2024 11:03:39 AM Link loaded
+5/13/2024 11:03:39 AM logged in
+5/13/2024 11:03:39 AM Log In Successful
+5/13/2024 11:03:39 AM Processing QUOTE
+5/13/2024 11:03:42 AM Quote processing Started
+13-05-2024 11:09:40 ====================================
+13-05-2024 11:09:40 Fujian Da Qin : 2024-05-13 11:09:40 Process Started...
+5/13/2024 11:09:40 AM Default regional setting - English (India)
+5/13/2024 11:09:40 AM Current regional setting - English (United States)
+5/13/2024 11:09:40 AM Processing Started
+5/13/2024 11:09:41 AM Link loaded
+5/13/2024 11:09:41 AM logged in
+5/13/2024 11:09:41 AM Log In Successful
+5/13/2024 11:09:41 AM Processing QUOTE
+5/13/2024 11:09:45 AM Quote processing Started
+13-05-2024 11:14:38 ====================================
+13-05-2024 11:14:38 Fujian Da Qin : 2024-05-13 11:14:38 Process Started...
+5/13/2024 11:14:38 AM Default regional setting - English (India)
+5/13/2024 11:14:38 AM Current regional setting - English (United States)
+5/13/2024 11:14:38 AM Processing Started
+5/13/2024 11:14:39 AM Link loaded
+5/13/2024 11:14:39 AM logged in
+5/13/2024 11:14:39 AM Log In Successful
+5/13/2024 11:14:39 AM Processing QUOTE
+5/13/2024 11:14:39 AM Quote processing Started
+13-05-2024 11:52:03 ====================================
+13-05-2024 11:52:03 Fujian Da Qin : 2024-05-13 11:52:02 Process Started...
+5/13/2024 11:52:03 AM Default regional setting - English (India)
+5/13/2024 11:52:03 AM Current regional setting - English (United States)
+5/13/2024 11:52:03 AM Processing Started
+5/13/2024 11:52:03 AM Link loaded
+5/13/2024 11:52:03 AM logged in
+5/13/2024 11:52:03 AM Log In Successful
+5/13/2024 11:52:03 AM Processing QUOTE
+5/13/2024 11:52:03 AM Quote processing Started
+13-05-2024 12:03:41 ====================================
+13-05-2024 12:03:41 Fujian Da Qin : 2024-05-13 12:03:41 Process Started...
+5/13/2024 12:03:41 PM Default regional setting - English (India)
+5/13/2024 12:03:41 PM Current regional setting - English (United States)
+5/13/2024 12:03:41 PM Processing Started
+5/13/2024 12:03:42 PM Link loaded
+5/13/2024 12:03:42 PM logged in
+5/13/2024 12:03:42 PM Log In Successful
+5/13/2024 12:03:42 PM Processing QUOTE
+5/13/2024 12:03:42 PM Quote processing Started
+13-05-2024 12:20:49 ====================================
+13-05-2024 12:20:49 Fujian Da Qin : 2024-05-13 12:20:48 Process Started...
+5/13/2024 12:20:49 PM Default regional setting - English (India)
+5/13/2024 12:20:49 PM Current regional setting - English (United States)
+5/13/2024 12:20:49 PM Processing Started
+5/13/2024 12:20:50 PM Link loaded
+5/13/2024 12:20:51 PM logged in
+5/13/2024 12:20:51 PM Log In Successful
+5/13/2024 12:20:51 PM Processing QUOTE
+5/13/2024 12:20:51 PM Quote processing Started
+13-05-2024 12:28:31 ====================================
+13-05-2024 12:28:31 Fujian Da Qin : 2024-05-13 12:28:31 Process Started...
+5/13/2024 12:28:31 PM Default regional setting - English (India)
+5/13/2024 12:28:31 PM Current regional setting - English (United States)
+5/13/2024 12:28:31 PM Processing Started
+5/13/2024 12:28:32 PM Link loaded
+5/13/2024 12:28:32 PM logged in
+5/13/2024 12:28:32 PM Log In Successful
+5/13/2024 12:28:32 PM Processing QUOTE
+5/13/2024 12:28:32 PM Quote processing Started
+13-05-2024 12:29:24 ====================================
+13-05-2024 12:29:24 Fujian Da Qin : 2024-05-13 12:29:24 Process Started...
+5/13/2024 12:29:24 PM Default regional setting - English (India)
+5/13/2024 12:29:24 PM Current regional setting - English (United States)
+5/13/2024 12:29:24 PM Processing Started
+5/13/2024 12:29:25 PM Link loaded
+5/13/2024 12:29:25 PM logged in
+5/13/2024 12:29:25 PM Log In Successful
+5/13/2024 12:29:25 PM Processing QUOTE
+5/13/2024 12:29:25 PM Quote processing Started
+13-05-2024 12:29:46 ====================================
+13-05-2024 12:29:46 Fujian Da Qin : 2024-05-13 12:29:46 Process Started...
+5/13/2024 12:29:46 PM Default regional setting - English (India)
+5/13/2024 12:29:46 PM Current regional setting - English (United States)
+5/13/2024 12:29:46 PM Processing Started
+5/13/2024 12:29:46 PM Link loaded
+5/13/2024 12:29:47 PM logged in
+5/13/2024 12:29:47 PM Log In Successful
+5/13/2024 12:29:47 PM Processing QUOTE
+5/13/2024 12:29:47 PM Quote processing Started
+5/13/2024 12:31:22 PM Quote processing Stopped.
+5/13/2024 12:31:22 PM --------*Process for QUOTE is Done*--------*--------
+5/13/2024 12:31:22 PM Fujian Da Qin : 2024-05-13 12:29:46 Process Completed...
+5/13/2024 12:31:22 PM ====================================
+13-05-2024 12:32:32 ====================================
+13-05-2024 12:32:32 Fujian Da Qin : 2024-05-13 12:32:32 Process Started...
+5/13/2024 12:32:32 PM Default regional setting - English (India)
+5/13/2024 12:32:32 PM Current regional setting - English (United States)
+5/13/2024 12:32:32 PM Processing Started
+5/13/2024 12:32:33 PM Link loaded
+5/13/2024 12:32:33 PM logged in
+5/13/2024 12:32:33 PM Log In Successful
+5/13/2024 12:32:33 PM Processing QUOTE
+5/13/2024 12:32:33 PM Quote processing Started
+13-05-2024 12:33:56 ====================================
+13-05-2024 12:33:56 Fujian Da Qin : 2024-05-13 12:33:56 Process Started...
+5/13/2024 12:33:56 PM Default regional setting - English (India)
+5/13/2024 12:33:56 PM Current regional setting - English (United States)
+5/13/2024 12:33:56 PM Processing Started
+5/13/2024 12:33:56 PM Link loaded
+5/13/2024 12:33:57 PM logged in
+5/13/2024 12:33:57 PM Log In Successful
+5/13/2024 12:33:57 PM Processing QUOTE
+5/13/2024 12:33:57 PM Quote processing Started
+5/13/2024 12:37:21 PM Quote processing Stopped.
+5/13/2024 12:37:21 PM --------*Process for QUOTE is Done*--------*--------
+5/13/2024 12:37:21 PM Fujian Da Qin : 2024-05-13 12:33:56 Process Completed...
+5/13/2024 12:37:21 PM ====================================
+13-05-2024 12:37:34 ====================================
+13-05-2024 12:37:34 Fujian Da Qin : 2024-05-13 12:37:34 Process Started...
+5/13/2024 12:37:34 PM Default regional setting - English (India)
+5/13/2024 12:37:34 PM Current regional setting - English (United States)
+5/13/2024 12:37:34 PM Processing Started
+5/13/2024 12:37:35 PM Link loaded
+5/13/2024 12:37:35 PM logged in
+5/13/2024 12:37:35 PM Log In Successful
+5/13/2024 12:37:35 PM Processing QUOTE
+5/13/2024 12:37:35 PM Quote processing Started
+5/13/2024 12:37:46 PM Quote processing Stopped.
+5/13/2024 12:37:46 PM --------*Process for QUOTE is Done*--------*--------
+5/13/2024 12:37:46 PM Fujian Da Qin : 2024-05-13 12:37:34 Process Completed...
+5/13/2024 12:37:46 PM ====================================
+13-05-2024 12:50:03 ====================================
+13-05-2024 12:50:03 Fujian Da Qin : 2024-05-13 12:50:03 Process Started...
+5/13/2024 12:50:03 PM Default regional setting - English (India)
+5/13/2024 12:50:03 PM Current regional setting - English (United States)
+5/13/2024 12:50:03 PM Processing Started
+5/13/2024 12:50:04 PM Link loaded
+5/13/2024 12:50:05 PM logged in
+5/13/2024 12:50:05 PM Log In Successful
+5/13/2024 12:50:05 PM Processing QUOTE
+5/13/2024 12:50:05 PM Quote processing Started
+5/13/2024 12:51:02 PM Quote processing Stopped.
+5/13/2024 12:51:02 PM --------*Process for QUOTE is Done*--------*--------
+5/13/2024 12:51:02 PM Fujian Da Qin : 2024-05-13 12:50:03 Process Completed...
+5/13/2024 12:51:02 PM ====================================
+13-05-2024 12:52:47 ====================================
+13-05-2024 12:52:47 Fujian Da Qin : 2024-05-13 12:52:47 Process Started...
+5/13/2024 12:52:47 PM Default regional setting - English (India)
+5/13/2024 12:52:47 PM Current regional setting - English (United States)
+5/13/2024 12:52:47 PM Processing Started
+5/13/2024 12:52:48 PM Link loaded
+5/13/2024 12:52:48 PM logged in
+5/13/2024 12:52:48 PM Log In Successful
+5/13/2024 12:52:48 PM Processing QUOTE
+5/13/2024 12:52:48 PM Quote processing Started
+5/13/2024 12:53:04 PM Quote processing Stopped.
+5/13/2024 12:53:04 PM --------*Process for QUOTE is Done*--------*--------
+5/13/2024 12:53:04 PM Fujian Da Qin : 2024-05-13 12:52:47 Process Completed...
+5/13/2024 12:53:04 PM ====================================

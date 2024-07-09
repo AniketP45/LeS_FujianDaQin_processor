@@ -4,8 +4,11 @@
     <DOMAIN>http://htsm.fjhighton.com/index.jsp</DOMAIN>
 	<DOMAINNAME>http://htsm.fjhighton.com/main.jsp</DOMAINNAME>
     <LOGINURL>http://htsm.fjhighton.com/data/verify/user</LOGINURL>
-    <DATALINK></DATALINK>
-    <ORIGIN>@"http://htsm.fjhighton.com"</ORIGIN>
+    <GETDATALINK>http://htsm.fjhighton.com/data/list/purEnquireMain?_dc=1709531524800&amp;enquireNo=&amp;vesselCode=&amp;supplierCode=WK00000115&amp;bizType=&amp;documentType=&amp;orderType=&amp;status=&amp;enquireDate.from=&amp;enquireDate.to=&amp;getPriceNo=&amp;_extend=---AFA8AI669JA295A2A39J668J8K665K69706K6962697074607569626970746072695L66958K98669JA295A2A39J668J8K665K69706K696269706L69626970746962697074607569626970746072696269707569626970726962697073696269706E69626971756962696K736962696K6E6962696L736962696L6E695L&amp;searchType=BJD_MAIN&amp;dataType=2&amp;_sm=0&amp;_lm=a&amp;dataType.eq=2&amp;_od=createdDtmLoc%20desc&amp;_cpid=8a9282cd798a11e201799d776eff0207&amp;page=1&amp;start=0&amp;limit=50</GETDATALINK>
+    <LINEITEMPOSTURL>http://htsm.fjhighton.com/data/batchUpdatBJ/purEnquireDetail?_dc=0.4836266964542346&amp;_cpid=8a9282cd798a11e201799d776eff0207</LINEITEMPOSTURL>
+    <SAVEQUOTEURL>http://htsm.fjhighton.com/data/update/purEnquireMain</SAVEQUOTEURL>
+    <UPLOADFILEURL>http://htsm.fjhighton.com/file/upload/purCommonAttach</UPLOADFILEURL>
+    <ORIGIN>http://htsm.fjhighton.com</ORIGIN>
     <REQUIREDDAYS>7</REQUIREDDAYS>
 	<USERNAME>13918965973</USERNAME>
     <PASSWORD>gys@965973</PASSWORD>
@@ -19,10 +22,11 @@
     <CLIENTNAME>SMPL</CLIENTNAME>
 	<SUPPLIERNAME>SINWA SINGAPORE PTE LTD</SUPPLIERNAME>
     <LINK_INBOX_PATH>C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\bin\Debug\MailText</LINK_INBOX_PATH>
+    <QUOTE_ATTACHMENT>C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\bin\Debug\QUOTE_ATTACHMENT</QUOTE_ATTACHMENT>
     <AUDITPATH></AUDITPATH>
-    <ACTIONS>RFQ</ACTIONS>
+    <ACTIONS>QUOTE</ACTIONS>
 	<ENCYRPTURL>eur01.safelinks.protection.outlook.com</ENCYRPTURL>
-	<OUTBOX_PATH>D:\Kalpita\Work\LeS\Projects\JUNIOR_DEVS\Shubham\RapexTech\RapexTech\RapexTech\bin\Debug\Quote</OUTBOX_PATH>  
+	<OUTBOX_PATH>C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\bin\Debug\QUOTE</OUTBOX_PATH>  
 	<SAVE_QUOTE>FALSE</SAVE_QUOTE>
     <SUBMIT_QUOTE>FAlSE</SUBMIT_QUOTE>
 </APPSETTINGS>

@@ -1,0 +1,36 @@
+20-06-2024 17:21:28 ====================================
+20-06-2024 17:21:28 Fujian Da Qin : 2024-06-20 17:21:27 Process Started...
+6/20/2024 5:21:28 PM Default regional setting - English (India)
+6/20/2024 5:21:28 PM Current regional setting - English (United States)
+6/20/2024 5:21:28 PM Processing Started
+6/20/2024 5:21:30 PM Link loaded
+6/20/2024 5:21:30 PM logged in
+6/20/2024 5:21:30 PM Log In Successful
+6/20/2024 5:21:30 PM Processing QUOTE
+6/20/2024 5:21:30 PM Quote processing Started
+6/20/2024 5:21:31 PM Started filling post body for LineItems
+6/20/2024 5:21:31 PM Completed post body for LineItems
+6/20/2024 5:21:34 PM LineItem Saves SuccessFully
+6/20/2024 5:22:06 PM Quote Attachment : OrderQuotation_C76992_240620_105104712.pdf uploaded sucessfully
+6/20/2024 5:22:09 PM Quote processing Stopped.
+6/20/2024 5:22:09 PM --------*Process for QUOTE is Done*--------*--------
+6/20/2024 5:22:09 PM Fujian Da Qin : 2024-06-20 17:21:27 Process Completed...
+6/20/2024 5:22:09 PM ====================================
+20-06-2024 17:27:27 ====================================
+20-06-2024 17:27:27 Fujian Da Qin : 2024-06-20 17:27:27 Process Started...
+6/20/2024 5:27:27 PM Default regional setting - English (India)
+6/20/2024 5:27:27 PM Current regional setting - English (United States)
+6/20/2024 5:27:27 PM Processing Started
+6/20/2024 5:27:28 PM Link loaded
+6/20/2024 5:27:28 PM logged in
+6/20/2024 5:27:28 PM Log In Successful
+6/20/2024 5:27:28 PM Processing QUOTE
+6/20/2024 5:27:28 PM Quote processing Started
+6/20/2024 5:27:29 PM Started filling post body for LineItems
+6/20/2024 5:27:29 PM Completed post body for LineItems
+6/20/2024 5:29:06 PM LineItem Saves SuccessFully
+6/20/2024 5:30:10 PM Quote Attachment : OrderQuotation_C76992_240620_105104712.pdf uploaded sucessfully
+6/20/2024 5:30:28 PM Quote processing Stopped.
+6/20/2024 5:30:32 PM --------*Process for QUOTE is Done*--------*--------
+6/20/2024 5:30:32 PM Fujian Da Qin : 2024-06-20 17:27:27 Process Completed...
+6/20/2024 5:30:32 PM ====================================

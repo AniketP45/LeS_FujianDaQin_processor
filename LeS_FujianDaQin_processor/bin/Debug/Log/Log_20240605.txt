@@ -1,0 +1,18 @@
+05-06-2024 12:54:59 ====================================
+05-06-2024 12:54:59 Fujian Da Qin : 2024-06-05 12:54:58 Process Started...
+6/5/2024 12:54:59 PM Default regional setting - English (India)
+6/5/2024 12:54:59 PM Current regional setting - English (United States)
+6/5/2024 12:54:59 PM Processing Started
+6/5/2024 12:55:00 PM Link loaded
+6/5/2024 12:55:00 PM logged in
+6/5/2024 12:55:00 PM Log In Successful
+6/5/2024 12:55:00 PM Processing QUOTE
+6/5/2024 12:55:00 PM Quote processing Started
+6/5/2024 12:55:01 PM Started filling post body for LineItems
+6/5/2024 12:55:01 PM Completed post body for LineItems
+6/5/2024 12:55:08 PM LineItem Saves SuccessFully
+6/5/2024 12:55:22 PM Quote Attachment : OrderQuotation_C76552_240605_065100711.pdf uploaded sucessfully
+6/5/2024 12:55:24 PM Quote processing Stopped.
+6/5/2024 12:55:24 PM --------*Process for QUOTE is Done*--------*--------
+6/5/2024 12:55:24 PM Fujian Da Qin : 2024-06-05 12:54:58 Process Completed...
+6/5/2024 12:55:24 PM ====================================

@@ -1,0 +1,42 @@
+25-04-2024 10:05:39 ====================================
+25-04-2024 10:05:39 Fujian Da Qin : 2024-04-25 10:05:39 Process Started...
+4/25/2024 10:05:39 AM Default regional setting - English (India)
+4/25/2024 10:05:39 AM Current regional setting - English (United States)
+4/25/2024 10:05:39 AM Processing Started
+4/25/2024 10:05:40 AM Link loaded
+4/25/2024 10:05:41 AM logged in
+4/25/2024 10:05:41 AM Log In Successful
+4/25/2024 10:05:41 AM Processing RFQ
+4/25/2024 10:05:41 AM RFQNO :HT28MMA-24018-0000 From mail file not available
+4/25/2024 10:05:45 AM RFQNO :HT27HMA-24027-0000 From mail file not available
+4/25/2024 10:05:45 AM RFQNO :HT30MMA-23027-0000 From mail file not available
+4/25/2024 10:05:45 AM 1 :  Started RFQ generation for HT25MMA-24027-0000
+4/25/2024 10:05:45 AM Start filling HeaderData in MTML
+4/25/2024 10:05:45 AM Start filling PartyAddress in MTML
+4/25/2024 10:05:45 AM Start filling LineItems in MTML
+4/25/2024 10:05:45 AM RFQ Mtml Generated for HT25MMA-24027-0000
+4/25/2024 10:05:45 AM RFQNO not found in this file:C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\bin\Debug\MailText\大农海运有限公司_新海通35询价单_威尔森船舶服务有限公司.eml
+4/25/2024 10:05:45 AM RFQNO not found in this file:C:\2-NP\LeS_FujianDaQin_processor\LeS_FujianDaQin_processor\bin\Debug\MailText\大商海运有限公司_新海通30询价单_威尔森船舶服务有限公司 (1).eml
+4/25/2024 10:05:45 AM RFQNO :HT25MMA-23037-0000 From mail file not available
+4/25/2024 10:05:45 AM RFQNO :HT30MMA-23027-0000 From mail file not available
+4/25/2024 10:05:45 AM RFQNO :HT25MMA-24005-0000 From mail file not available
+4/25/2024 10:05:45 AM --------*Process for RFQ is Done*--------*--------
+4/25/2024 10:05:45 AM Fujian Da Qin : 2024-04-25 10:05:39 Process Completed...
+4/25/2024 10:05:45 AM ====================================
+25-04-2024 10:09:50 ====================================
+25-04-2024 10:09:50 Fujian Da Qin : 2024-04-25 10:09:50 Process Started...
+4/25/2024 10:09:50 AM Default regional setting - English (India)
+4/25/2024 10:09:50 AM Current regional setting - English (United States)
+4/25/2024 10:09:50 AM Processing Started
+4/25/2024 10:09:51 AM Link loaded
+4/25/2024 10:09:51 AM logged in
+4/25/2024 10:09:51 AM Log In Successful
+4/25/2024 10:09:51 AM Processing RFQ
+4/25/2024 10:09:52 AM 1 :  Started RFQ generation for HT25MMA-24027-0000
+4/25/2024 10:09:52 AM Start filling HeaderData in MTML
+4/25/2024 10:09:52 AM Start filling PartyAddress in MTML
+4/25/2024 10:09:52 AM Start filling LineItems in MTML
+4/25/2024 10:09:52 AM RFQ Mtml Generated for HT25MMA-24027-0000
+4/25/2024 10:09:52 AM --------*Process for RFQ is Done*--------*--------
+4/25/2024 10:09:52 AM Fujian Da Qin : 2024-04-25 10:09:50 Process Completed...
+4/25/2024 10:09:52 AM ====================================
